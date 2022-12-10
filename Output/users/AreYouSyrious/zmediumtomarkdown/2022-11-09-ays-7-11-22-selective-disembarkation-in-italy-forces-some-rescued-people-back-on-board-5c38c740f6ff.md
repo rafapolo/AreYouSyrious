@@ -97,6 +97,7 @@ In a state of despair, some of the people who were not considered ‘vulnerable�
 
 
 Said Mirka Schäfer, advocacy officer of the NGO Sos Humanity, as it is reported in the following article:
+<<<<<<< HEAD
 
 
 [![](https://media.internazionale.it/images/2022/11/07/176418-sd.jpg)](https://www.essenziale.it/notizie/annalisa-camilli/2022/11/07/ong-decreto-sbarco-selettivo)
@@ -289,3 +290,5 @@ Meanwhile, [half of the people seeking asylum are unable to access legal aid](ht
 
 
 _Converted [Medium Post](https://medium.com/are-you-syrious/ays-7-11-22-selective-disembarkation-in-italy-forces-some-rescued-people-back-on-board-5c38c740f6ff) by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._
+=======
+>>>>>>> b8646ca (updates)

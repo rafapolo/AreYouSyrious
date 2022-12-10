@@ -68,7 +68,11 @@ Stated Home Secretary Suella Braverman\. Enver Solomon, chief executive of the R
 And at the following link, an article, with its focus on numbers, from an Albanian newspaper:
 
 
+<<<<<<< HEAD
 [![](https://albaniandailynews.com/foto/2022/11/20221101093309_art.jpg)](https://albaniandailynews.com/news/institutions-to-take-measures-on-lowering-migrants-numbers?fbclid=IwAR19psFtCak328D7hn8eY-IMF6NSqbFNJMwuNx8EaxmSYrxU6WrGWIWb8Nw)
+=======
+[![]()](https://albaniandailynews.com/news/institutions-to-take-measures-on-lowering-migrants-numbers?fbclid=IwAR19psFtCak328D7hn8eY-IMF6NSqbFNJMwuNx8EaxmSYrxU6WrGWIWb8Nw)
+>>>>>>> b8646ca (updates)
 
 
 No visas\. No regular access\. And once they arrive, risking their lives: No reception\. Overcrowding at the Manston centre is inflaming the political debate these days\. Between the organisations and people who denounced the situation, Soas Detainee Support\. Here is their thread about the Manston centre:
@@ -230,6 +234,7 @@ Read the official p [ress release](https://neighbourhood-enlargement.ec.europa.e
 #### WORTH READING
 - Lighthouse Report: Tracing the fate of a cohort of non\-white students who fled Russia’s invasion to be confronted with Europe’s hostile environment:
 
+<<<<<<< HEAD
 
 [**How the EU Failed Ukraine's International Students**](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.lighthousereports.nl%2Finvestigation%2Fhow-the-eu-failed-ukraines-international-students%2F%3Ffbclid%3DIwAR0Obuv0gNcXslk8IZKPZ5-IsHl0yNjE5-P7MQgt5kTRfJQhkcOBD3NNQOg&h=AT2idRt-LI7oyzDIJBdp1xBWYIF2njb2pVjNH5LXAnK1FDBbUfXsT40FR8Blx76dCBPnN3gzrWRgqlgkEbaemOCi0bS4NPsuNM_H6FS3aGcsoXyvGE1cveUR_QvykpUzXaepYshu62l8WReqRqfju-uvv6OTcw&__tn__=R]-R&c[0]=AT1Md-5RAFkIufxrvzfPcAan-GWgSJ2ZuiNGzXkq_Xbq9ubZn0D23kP_jehqMWwQgJQ6Myq4fPEelGpKxzX0eRz7zyPS0_HvNZtb1LHolVqu3SG8H8UT7gH-A_Co4_GWv5k89iLFFBbjNue40-_EQGUTdATz8K7vJKRNX3YSiEDauRheaTwygOmdTKh-bQcK5rqsGNc-ewOXNhQv) 
 [_CREDITS Maud Jullien, Halima Salat Barre, May Bulman, Beatriz Ramalho da Silva, Coumba Kane, Irene van der Linde…_ l\.facebook\.com](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.lighthousereports.nl%2Finvestigation%2Fhow-the-eu-failed-ukraines-international-students%2F%3Ffbclid%3DIwAR0Obuv0gNcXslk8IZKPZ5-IsHl0yNjE5-P7MQgt5kTRfJQhkcOBD3NNQOg&h=AT2idRt-LI7oyzDIJBdp1xBWYIF2njb2pVjNH5LXAnK1FDBbUfXsT40FR8Blx76dCBPnN3gzrWRgqlgkEbaemOCi0bS4NPsuNM_H6FS3aGcsoXyvGE1cveUR_QvykpUzXaepYshu62l8WReqRqfju-uvv6OTcw&__tn__=R]-R&c[0]=AT1Md-5RAFkIufxrvzfPcAan-GWgSJ2ZuiNGzXkq_Xbq9ubZn0D23kP_jehqMWwQgJQ6Myq4fPEelGpKxzX0eRz7zyPS0_HvNZtb1LHolVqu3SG8H8UT7gH-A_Co4_GWv5k89iLFFBbjNue40-_EQGUTdATz8K7vJKRNX3YSiEDauRheaTwygOmdTKh-bQcK5rqsGNc-ewOXNhQv)
@@ -249,6 +254,31 @@ Read the official p [ress release](https://neighbourhood-enlargement.ec.europa.e
 
 [**Who are climate refugees \- and how can we help them?**](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.worldvision.ca%2Fstories%2Fclimate-change%2Fwho-are-climate-refugees-and-how-can-we-help%3Ffbclid%3DIwAR1SAuiCKKA-KAgTTAKsMmxchLSflYBFdv_rk9QfQf1ZYuOHEIw2_czPLlw&h=AT1hY8YqtmGU-H0VlYdhKK67hL2lSwP8jyF-xr72W1BW0rF9JCNOlzEcBypGygjnGlid4r_wE2Z2X7JmdkDSr6mN_JYlgUldim-67gnUh4DlP26sx7jCCUxKw2kiuSS-PNxE6i8CJTiJvCLRmRK7AzP_pKjzYQ&__tn__=R]-R&c[0]=AT1Md-5RAFkIufxrvzfPcAan-GWgSJ2ZuiNGzXkq_Xbq9ubZn0D23kP_jehqMWwQgJQ6Myq4fPEelGpKxzX0eRz7zyPS0_HvNZtb1LHolVqu3SG8H8UT7gH-A_Co4_GWv5k89iLFFBbjNue40-_EQGUTdATz8K7vJKRNX3YSiEDauRheaTwygOmdTKh-bQcK5rqsGNc-ewOXNhQv) 
 [_Climate refugees \- or climate migrants \- grow in number each year\. While we all experience the effects of climate…_ l\.facebook\.com](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.worldvision.ca%2Fstories%2Fclimate-change%2Fwho-are-climate-refugees-and-how-can-we-help%3Ffbclid%3DIwAR1SAuiCKKA-KAgTTAKsMmxchLSflYBFdv_rk9QfQf1ZYuOHEIw2_czPLlw&h=AT1hY8YqtmGU-H0VlYdhKK67hL2lSwP8jyF-xr72W1BW0rF9JCNOlzEcBypGygjnGlid4r_wE2Z2X7JmdkDSr6mN_JYlgUldim-67gnUh4DlP26sx7jCCUxKw2kiuSS-PNxE6i8CJTiJvCLRmRK7AzP_pKjzYQ&__tn__=R]-R&c[0]=AT1Md-5RAFkIufxrvzfPcAan-GWgSJ2ZuiNGzXkq_Xbq9ubZn0D23kP_jehqMWwQgJQ6Myq4fPEelGpKxzX0eRz7zyPS0_HvNZtb1LHolVqu3SG8H8UT7gH-A_Co4_GWv5k89iLFFBbjNue40-_EQGUTdATz8K7vJKRNX3YSiEDauRheaTwygOmdTKh-bQcK5rqsGNc-ewOXNhQv)
+=======
+
+
+[![]()](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.lighthousereports.nl%2Finvestigation%2Fhow-the-eu-failed-ukraines-international-students%2F%3Ffbclid%3DIwAR0Obuv0gNcXslk8IZKPZ5-IsHl0yNjE5-P7MQgt5kTRfJQhkcOBD3NNQOg&h=AT2idRt-LI7oyzDIJBdp1xBWYIF2njb2pVjNH5LXAnK1FDBbUfXsT40FR8Blx76dCBPnN3gzrWRgqlgkEbaemOCi0bS4NPsuNM_H6FS3aGcsoXyvGE1cveUR_QvykpUzXaepYshu62l8WReqRqfju-uvv6OTcw&__tn__=R]-R&c[0]=AT1Md-5RAFkIufxrvzfPcAan-GWgSJ2ZuiNGzXkq_Xbq9ubZn0D23kP_jehqMWwQgJQ6Myq4fPEelGpKxzX0eRz7zyPS0_HvNZtb1LHolVqu3SG8H8UT7gH-A_Co4_GWv5k89iLFFBbjNue40-_EQGUTdATz8K7vJKRNX3YSiEDauRheaTwygOmdTKh-bQcK5rqsGNc-ewOXNhQv)
+
+- [A Rare Look At Europe’s Most Violent Border Crossing](https://worldcrunch.com/world-affairs/greece-turkey-border-migrants)
+- Die vergessene Jugend:
+
+
+
+[![]()](https://l.facebook.com/l.php?u=https%3A%2F%2Ftaz.de%2FSyrische-Fluechtlinge-in-Jordanien%2F!5889009%2F%3Ffbclid%3DIwAR2W4P8SwHU_A-0m44Om4zeIcRwex1Rgyhcxwrnw7WOn77hOf1eCAFku0u4&h=AT1U17QdtI-Vl5Y8uT4fqSmKYpHNpexANq6r31O1m-to0072JUuINNQBOrDrm3-B90z7_Fa6mVvS5Pww9J7FBW3GYVRAag7oc1nX7By6efKKn5Pu8ECbwUqjjwxkzQ8gWlBiQ1cmUzGR4fZiQJkx_YGPAO-fxg&__tn__=R]-R&c[0]=AT1Md-5RAFkIufxrvzfPcAan-GWgSJ2ZuiNGzXkq_Xbq9ubZn0D23kP_jehqMWwQgJQ6Myq4fPEelGpKxzX0eRz7zyPS0_HvNZtb1LHolVqu3SG8H8UT7gH-A_Co4_GWv5k89iLFFBbjNue40-_EQGUTdATz8K7vJKRNX3YSiEDauRheaTwygOmdTKh-bQcK5rqsGNc-ewOXNhQv)
+
+- How Spain looked on as dozens were crushed to death at its border:
+
+
+
+[![]()](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fextra%2Fz8i55dsu8w%2Fspain-morocco-border%3Ffbclid%3DIwAR0BpPBCTum7UeEiubOPhsU9b7MbeJ4W4qN8l54HxMdHSaTn1wQosUAfLm4&h=AT258FJsibj3FmydraeqwDcAs2Yz759eCOglILjG_68sWY28mva6B2rqQJaRfqDUvg0pnD1Bx2Ye4uC7xtiCsfqF_aIp5XHwBnZcmIZMXoBn2V9nTP54Y7HGWk-vFUHDBEHFOXjyKslK2MiSleYEVgGaQlEJtQ&__tn__=R]-R&c[0]=AT1Md-5RAFkIufxrvzfPcAan-GWgSJ2ZuiNGzXkq_Xbq9ubZn0D23kP_jehqMWwQgJQ6Myq4fPEelGpKxzX0eRz7zyPS0_HvNZtb1LHolVqu3SG8H8UT7gH-A_Co4_GWv5k89iLFFBbjNue40-_EQGUTdATz8K7vJKRNX3YSiEDauRheaTwygOmdTKh-bQcK5rqsGNc-ewOXNhQv)
+
+- On the topic of climate refugees:
+
+
+
+[![]()](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.worldvision.ca%2Fstories%2Fclimate-change%2Fwho-are-climate-refugees-and-how-can-we-help%3Ffbclid%3DIwAR1SAuiCKKA-KAgTTAKsMmxchLSflYBFdv_rk9QfQf1ZYuOHEIw2_czPLlw&h=AT1hY8YqtmGU-H0VlYdhKK67hL2lSwP8jyF-xr72W1BW0rF9JCNOlzEcBypGygjnGlid4r_wE2Z2X7JmdkDSr6mN_JYlgUldim-67gnUh4DlP26sx7jCCUxKw2kiuSS-PNxE6i8CJTiJvCLRmRK7AzP_pKjzYQ&__tn__=R]-R&c[0]=AT1Md-5RAFkIufxrvzfPcAan-GWgSJ2ZuiNGzXkq_Xbq9ubZn0D23kP_jehqMWwQgJQ6Myq4fPEelGpKxzX0eRz7zyPS0_HvNZtb1LHolVqu3SG8H8UT7gH-A_Co4_GWv5k89iLFFBbjNue40-_EQGUTdATz8K7vJKRNX3YSiEDauRheaTwygOmdTKh-bQcK5rqsGNc-ewOXNhQv)
+
+>>>>>>> b8646ca (updates)
 - [Third Committee Emphasizes That Conflicts, Climate\-Induced Displacement, Cost\-of\-Living Crisis Driving Refugee Numbers to Record Level — World \| ReliefWeb](https://reliefweb.int/report/world/third-committee-emphasizes-conflicts-climate-induced-displacement-cost-living-crisis-driving-refugee-numbers-record-level?fbclid=IwAR3nIrr-ThJNn8Q6ngPQFdfhEpNKBJWdWNjy0udcWyIqUqAzUz9bXtQMF0g)
 
 

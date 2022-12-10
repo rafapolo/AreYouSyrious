@@ -83,9 +83,16 @@ Read more below:
 
 [![](https://theshiftnews.com/wp-content/uploads/2022/10/Untitled-design-52.png)](https://theshiftnews.com/2022/10/31/msf-appalled-outraged-by-maltas-inaction-in-its-search-and-rescue-zone/)
 
+<<<<<<< HEAD
 
 [**Malta and Italy accused of delaying SOS request for rescued migrants**](https://famagusta-gazette.com/2022/10/31/malta-and-italy-accused-of-delaying-sos-request-for-rescued-migrants/?fbclid=IwAR3xgEHUUR8CDv2-vXfh6sHd2drLKaB6EhZq54hRDNerdRzkplKnhFbtaoQ) 
 [_For more than a week, the rescue ship Humanity 1 has been waiting for a place of safety for 179 people rescued from…_ famagusta\-gazette\.com](https://famagusta-gazette.com/2022/10/31/malta-and-italy-accused-of-delaying-sos-request-for-rescued-migrants/?fbclid=IwAR3xgEHUUR8CDv2-vXfh6sHd2drLKaB6EhZq54hRDNerdRzkplKnhFbtaoQ)
+=======
+
+
+[![]()](https://famagusta-gazette.com/2022/10/31/malta-and-italy-accused-of-delaying-sos-request-for-rescued-migrants/?fbclid=IwAR3xgEHUUR8CDv2-vXfh6sHd2drLKaB6EhZq54hRDNerdRzkplKnhFbtaoQ)
+
+>>>>>>> b8646ca (updates)
 #### FEATURE FROM THE UK
 #### Unacceptable conditions at Manston detention centre in Kent
 
@@ -148,9 +155,16 @@ More here from [_LBC_](https://www.lbc.co.uk/news/suella-braverman-ignored-advic
 #### PROTESTS
 
 ‘Close Down Mansion Detention Centre’ — Protest on 2nd November 2022 at 7PM\. Details below:
+<<<<<<< HEAD
 
 [**CLOSE DOWN MANSTON DETENTION CENTRE**](https://www.facebook.com/events/480982047330197/) 
 [_Asylum seekers are being held in shocking conditions of overcrowding, with communicable diseases being allowed to…_ www\.facebook\.com](https://www.facebook.com/events/480982047330197/)
+=======
+
+
+[![]()](https://www.facebook.com/events/480982047330197/)
+
+>>>>>>> b8646ca (updates)
 
 Protest on Sunday 6th November at 2PM:
 
@@ -216,9 +230,16 @@ The UK Government’s response to the Home Affairs Committee’s [report](https:
 
 
 This is also worth reading: The Institute for Public Policy Research \(IPPR\) has recently found that 70 per cent of people who had arrived in Britain in small boats via the English Channel since 2018 could have been granted asylum if their claims were properly considered\.
+<<<<<<< HEAD
 
 [**Most refugees arriving on boats win asylum claims**](https://www.voice-online.co.uk/news/uk-news/2022/10/29/two-thirds-of-refugees-arriving-on-boats-have-asylum-claims-approved/?fbclid=IwAR3uYGZJ9CVKXQLq91TeL3b12mVJ2HwxFECk_wvoEHrXSqfHoUp85nK_mUU) 
 [_MOST REFUGEES fleeing their home countries to the UK on small boats could have successful claims for asylum if they…_ www\.voice\-online\.co\.uk](https://www.voice-online.co.uk/news/uk-news/2022/10/29/two-thirds-of-refugees-arriving-on-boats-have-asylum-claims-approved/?fbclid=IwAR3uYGZJ9CVKXQLq91TeL3b12mVJ2HwxFECk_wvoEHrXSqfHoUp85nK_mUU)
+=======
+
+
+[![](https://www.voice-online.co.uk/wp-content/uploads/2020/08/GettyImages-1228015679.jpg)](https://www.voice-online.co.uk/news/uk-news/2022/10/29/two-thirds-of-refugees-arriving-on-boats-have-asylum-claims-approved/?fbclid=IwAR3uYGZJ9CVKXQLq91TeL3b12mVJ2HwxFECk_wvoEHrXSqfHoUp85nK_mUU)
+
+>>>>>>> b8646ca (updates)
 #### Ukrainian refugees fear homelessness in the UK
 
 By next year, thousands of Ukrainian refugees in the UK might find themselves homeless\. The ‘Homes for Ukraine’ scheme has a minimum of six months \(soon to run out\), and one estimate predicts that 50,000 Ukrainian refugees will subsequently be made homeless\.
@@ -254,9 +275,16 @@ Aegean Boat Report \(ABR\) have been following a group of people, mostly Afghan 
 There has been no confirmation of any rescue in the area yet from HCG \(Hellenic Coastguard Greece\), and ABR are increasingly worried by the lack of information available 24 hours after the rescue operation began\. No contact with anyone onboard has been confirmed yet\.
 
 All information from ABR is here:
+<<<<<<< HEAD
 
 [**登录或注册即可查看**](https://www.facebook.com/AegeanBoatReport/posts/pfbid02zmwBtEhEBMbeDe1PQCtymdSuvfLZRcBFVrxkUMr3nT5eRs2WGZsYmw3uZEL7eQCVl) 
 [_到 Facebook 查看帖子、照片和更多内容。_ www\.facebook\.com](https://www.facebook.com/AegeanBoatReport/posts/pfbid02zmwBtEhEBMbeDe1PQCtymdSuvfLZRcBFVrxkUMr3nT5eRs2WGZsYmw3uZEL7eQCVl)
+=======
+
+
+[![]()](https://www.facebook.com/AegeanBoatReport/posts/pfbid02zmwBtEhEBMbeDe1PQCtymdSuvfLZRcBFVrxkUMr3nT5eRs2WGZsYmw3uZEL7eQCVl)
+
+>>>>>>> b8646ca (updates)
 #### 150 people rescued by a merchant vessel have landed in Trapani, Sicily
 
 
@@ -302,11 +330,20 @@ ABR, unusually, have written that,
 It’s worth noting that the quality and availability of footage for this particular rescue is, however, not something that ABR nor the general public have access too… If only such transparency was the norm\. See below for footage\.
 
 
+<<<<<<< HEAD
 [![](https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/312157942_5495881517195805_944150264759104304_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=b0ccae&_nc_ohc=R7oqqLmiUT8AX9XdCuO&_nc_ht=scontent-iad3-1.xx&oh=00_AfCoBDifKdCEcStYQeZOw-eAttLNYXe5s9YRd4Udq8Vw9g&oe=6378C9F1)](https://www.facebook.com/AegeanBoatReport/videos/1509157536176288/)
 
 
 [**登录或注册即可查看**](https://www.facebook.com/AegeanBoatReport/posts/pfbid08W8nRCHXEMwMR95hxdqMiLmRY3LeWBSDSQ9CDV6v5iFnTxbcbmi2EBfoKCqEDAzQl) 
 [_到 Facebook 查看帖子、照片和更多内容。_ www\.facebook\.com](https://www.facebook.com/AegeanBoatReport/posts/pfbid08W8nRCHXEMwMR95hxdqMiLmRY3LeWBSDSQ9CDV6v5iFnTxbcbmi2EBfoKCqEDAzQl)
+=======
+[![](https://scontent.flis6-1.fna.fbcdn.net/v/t15.5256-10/312157942_5495881517195805_944150264759104304_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=b0ccae&_nc_ohc=bRTAkPbuC4gAX-B1Kve&_nc_ht=scontent.flis6-1.fna&oh=00_AfCMeLxVPlKK6qg-FYXcP4A3lGw072vxDu_wY-Us4sJdug&oe=639A6831)](https://www.facebook.com/AegeanBoatReport/videos/1509157536176288/)
+
+
+
+[![]()](https://www.facebook.com/AegeanBoatReport/posts/pfbid08W8nRCHXEMwMR95hxdqMiLmRY3LeWBSDSQ9CDV6v5iFnTxbcbmi2EBfoKCqEDAzQl)
+
+>>>>>>> b8646ca (updates)
 #### TURKEY
 #### Turkey has deported 97,448 refugees this year
 
@@ -462,7 +499,11 @@ Austria’s role in border externalisation policies has been documented in [this
 Read more below about the un\-welcome, hostile environment Austria has created, which forced 16 young asylum seekers to protest against poor conditions by hunger striking:
 
 
+<<<<<<< HEAD
 [![](https://www.meltingpot.org/app/uploads/2022/10/WhatsApp-Image-2022-10-30-at-17.17.27.jpeg)](https://www.meltingpot.org/2022/10/austria-dove-per-essere-accolti-bisogna-lottare/?fbclid=IwAR1WwZEPHfjMuxvVKVC-QdHl4t8ITZdPPfno1nNAcYJFUxgJ_VyccK7Hu70)
+=======
+[![]()](https://www.meltingpot.org/2022/10/austria-dove-per-essere-accolti-bisogna-lottare/?fbclid=IwAR1WwZEPHfjMuxvVKVC-QdHl4t8ITZdPPfno1nNAcYJFUxgJ_VyccK7Hu70)
+>>>>>>> b8646ca (updates)
 
 #### SWITZERLAND
 #### Tensions with Germany over border controls
@@ -544,7 +585,11 @@ IOC President, Thomas Bach, said on receiving the award that:
 
 
 
+<<<<<<< HEAD
 [![](https://www.proasyl.de/wp-content/uploads/News_Pushbacks_Moutafis-1.jpg)](https://www.proasyl.de/news/die-nacht-von-farmakonisi-wir-bleiben-an-der-seite-der-betroffenen-das-ist-unsere-dna/?fbclid=IwAR2Hi_vI704SpDzwBLaozsQcR8Iy9GQPHgRvSkvrcQhIE5evDqhU8dTBkIk)
+=======
+[![]()](https://www.proasyl.de/news/die-nacht-von-farmakonisi-wir-bleiben-an-der-seite-der-betroffenen-das-ist-unsere-dna/?fbclid=IwAR2Hi_vI704SpDzwBLaozsQcR8Iy9GQPHgRvSkvrcQhIE5evDqhU8dTBkIk)
+>>>>>>> b8646ca (updates)
 
 - On the Move in Pursuit of Peace — A South Sudanese man recounts a life of continued displacement
 
@@ -556,7 +601,11 @@ IOC President, Thomas Bach, said on receiving the award that:
 
 
 
+<<<<<<< HEAD
 [![](https://www.meltingpot.org/app/uploads/2022/10/IMG_3935-scaled.jpeg)](https://www.meltingpot.org/2022/10/il-niger-analisi-di-un-confine-umanitario/?fbclid=IwAR3I8e5ijYObO4EwDgA3KoGYEnjlDGf7rnonX45y8cyEYkP4vmbkMWD4ywE)
+=======
+[![]()](https://www.meltingpot.org/2022/10/il-niger-analisi-di-un-confine-umanitario/?fbclid=IwAR3I8e5ijYObO4EwDgA3KoGYEnjlDGf7rnonX45y8cyEYkP4vmbkMWD4ywE)
+>>>>>>> b8646ca (updates)
 
 - Podcast: Migrant Smuggling’s Human and Political Effects
 

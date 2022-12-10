@@ -1,8 +1,13 @@
 ---
 title: AYS News Digest 28/10/22: People handcuffed and injured in Lesvos
 author: Are You Syrious?
+<<<<<<< HEAD
 date: 2022-10-29T13:57:38.909+0000
 last_modified_at: 2022-10-29T13:57:38.909+0000
+=======
+date: 2022-10-29T14:57:38.909+0100
+last_modified_at: 2022-10-29T14:57:38.909+0100
+>>>>>>> b8646ca (updates)
 categories: Are You Syrious?
 tags: []
 description: Msf team found abused people on the Greek island of Lesvos//Lebanon started new “voluntary return” program to Syria//The Italian government…
@@ -266,3 +271,142 @@ This criminalising line is not only characteristic of the new government : indee
 
 
 Meanwhile 37 Syrian refugees arrived in Rome with the humanitarian corridors
+<<<<<<< HEAD
+=======
+
+
+[![]()](http://www.infomigrants.net/en/post/44336/37-syrian-refugees-arrive-in-rome-with-humanitarian-corridor?fbclid=IwAR2wRY-7kGr3MtUp4AvkGGnGmccB9JmWDstmCtMGLRjjssdDXj4BJHx9Bls)
+
+#### FRANCE
+### Violent eviction in Paris
+
+
+![People sleeping in the street after being evicted\. Credit: [Utopia 56](https://twitter.com/Utopia_56/status/1585743050608766978?fbclid=IwAR3qrN-IHcAfOW3ClOJ0O_E8ri-Aiuf3fqaL9xZWsBO-Jrjsrziy9Ze2V84)](assets/53016c7274af/1*m4zyTXxPJKgnH0d-AnkA5w.jpeg)
+
+People sleeping in the street after being evicted\. Credit: [Utopia 56](https://twitter.com/Utopia_56/status/1585743050608766978?fbclid=IwAR3qrN-IHcAfOW3ClOJ0O_E8ri-Aiuf3fqaL9xZWsBO-Jrjsrziy9Ze2V84)
+
+An eviction in the north of Paris forced 450 people to sleep on the streets, having been left with nowhere to shelter, as reported by [Utopia56](https://twitter.com/Utopia_56/status/1585743050608766978?fbclid=IwAR3qrN-IHcAfOW3ClOJ0O_E8ri-Aiuf3fqaL9xZWsBO-Jrjsrziy9Ze2V84)
+
+
+■■■■■■■■■■■■■■ 
+> **[Utopia 56](https://twitter.com/Utopia_56) @ Twitter Says:** 
+
+> > [En cours] Expulsion violente de plus de 450 personnes sous couvert d'une "mise à l'abri" et sans proposition d’hébergement. Des dizaines de CRS armés sont mobilisés. Ces personnes en demande d’asile survivaient sous un pont du nord de Paris depuis des mois. https://t.co/St46V9ZOcg 
+
+> **Tweeted at [2022-10-27 08:46:37](https://twitter.com/utopia_56/status/1585553542835757058).** 
+
+■■■■■■■■■■■■■■ 
+
+#### UK
+### New British minister pledges to curb crossings of the English Channel while conditions in Manston centre are worsening after cases of diphtheria
+
+[The call](https://www.thelocal.fr/20221028/sunak-and-macron-agree-greater-cooperation-on-channel-migrants-claims-uk-pms-office/?fbclid=IwAR3a3WzrY4V55utjQtPUcYMIu9fKkASCQBVgMcEtIc3MeufLTRFRnQ4gckU) between the new Prime Minister Rishi Sunak and French President Macron immediately highlighted the new British minister’s intention to strengthen cooperation with France, particularly on the issue of migration \( [read more here](https://www.euronews.com/2022/10/28/uk-pm-rishi-sunak-asks-frances-emmanuel-macron-for-help-with-channel-migrants?fbclid=IwAR0QCtlfXBM4kOdn1glcI1BreGdh2S1nhLDb9fOdEv6Wi_ECowKf1V3u0uM) \)
+
+
+■■■■■■■■■■■■■■ 
+> **[Rishi Sunak](https://twitter.com/RishiSunak) @ Twitter Says:** 
+
+> > The UK and France are allies with cultural links that span centuries. Our cooperation is vital across a huge range of areas, from supporting Ukraine to our own defence and energy security.
+ 
+It's in that spirit that I am looking forward to working with President @[EmmanuelMacron](https://twitter.com/EmmanuelMacron). https://t.co/yBBNoQSdKD 
+
+> **Tweeted at [2022-10-28 11:24:26](https://twitter.com/rishisunak/status/1585955645219835905).** 
+
+■■■■■■■■■■■■■■ 
+
+
+The main aim is to discourage the crossing across the Channel, strengthening controls both on land and sea\.
+
+Meanwhile, the [Manston migrant processing centre](https://www.bbc.com/news/uk-england-kent-63411080?fbclid=IwAR2CbUJoi2vA5tVrpkteGGIlsaTo49krSd6YTa2NMRO0nMLJkTPMWwxv1PU) \(located near the town of Ramsgate in the county of Kent\) is overcrowded\. It accommodates 2,500 people when it was set up for 1,000\. Although only the newly arrived people are supposed to reside in the centre, there are some guests who have been living there for more than a month and have not yet been moved to better accommodation\. The independent chief inspector of borders and immigration, David Neal denounced the condition at the centre\. The diphtheria epidemic is worsening the already worrying situation, as many cases of this disease have been detected at the facility\. [Read here more](http://www.infomigrants.net/en/post/44310/appalling-conditions-observed-at-uk-migrants-center?fbclid=IwAR3zFqoWb79GqQirFYSkP1LHfZ795l-2JRG6h-SmaIZjc00NJuyMAPUywac)
+
+Here is a summary of the session about Channel crossings by the Home Affairs Committee\. Many issues were discussed, including the situation of the arrivals and the condition at Manston centre\.
+
+
+■■■■■■■■■■■■■■ 
+> **[Home Affairs Committee](https://twitter.com/CommonsHomeAffs) @ Twitter Says:** 
+
+> > 1/ Earlier today we heard evidence from Home Office officials and the Independent Chief Inspector of Borders &amp; Immigration on Channel crossings.  
+
+📺If you missed the session you can watch it here:[parliamentlive.tv/Event/Index/6c…](https://parliamentlive.tv/Event/Index/6c665bd9-85e6-44d4-bab7-6724f0da117a) 
+
+Read a summary here⬇️🧵 
+
+> **Tweeted at [2022-10-26 15:37:28](https://twitter.com/commonshomeaffs/status/1585294549408251905).** 
+
+■■■■■■■■■■■■■■ 
+
+
+The migration issue was extensively discussed in the meeting with Jordan’s King Abdullah \. Read here more:
+
+
+[![](https://menafn.com/updates/pr/2022-10/28/JT_447abimage_story.jpg)](https://menafn.com/1105094217/King-Receives-Delegation-From-UK-House-Of-Commons-International-Development-Committee?fbclid=IwAR3lGeiVdUR4Y3BAw41-XQzMt4Pvl09rakmXiU6XJ13xXTljpLR6BOjvZZo)
+
+#### GENERAL
+### The Border Violence Reporting Network report of September is out
+
+
+[![]()](https://www.borderviolence.eu/balkan-regional-report-september-2022/?fbclid=IwAR3d0dsLfp_qheoZaXAXHPojpDi69bD30YVfWMMem0b7dm5vGCwxhMlvX2c)
+
+
+25 cases of pushbacks were sh, which impacted 557 people on the move across Balkans and Greece
+### Anti\-Frontex days in Berlin
+
+
+■■■■■■■■■■■■■■ 
+> **[Mediterranea Berlin e.V.](https://twitter.com/berlinersfor) @ Twitter Says:** 
+
+> > Anti-Frontex Days on 29-30.10.!
+
+On the 29th and 30th of October different groups will give inputs on #FortressEurope, resistance &amp; their work. The weekend will offer a space to come together. https://t.co/DKAJsVkuVm 
+
+> **Tweeted at [2022-10-28 06:36:03](https://twitter.com/berlinersfor/status/1585883073106911233).** 
+
+■■■■■■■■■■■■■■ 
+
+
+Events against Frontex were organised in Berlin over the weekend of 29th and 30th October
+#### WORTH READING
+- The paper highlights the challenges faced by Roma refugees in Moldova fleeing the war in Ukraine
+
+
+
+[![]()](https://www.oxfam.org/en/research/seeking-safety-roma-refugees-moldova?fbclid=IwAR3byEhbZz1VQAkatL16RJydZC9_E-YEH3ORHGL2l9j23EChDRHZQj5Ixpg)
+
+
+Another article highlights the discrimination suffered by Roma refugees in Europe and the expectations for the coming winter months
+
+
+[![]()](https://www.oxfam.org/en/blogs/roma-refugees-ukraine-face-europes-coming-winter-added-burden-hostility-and-discrimination?fbclid=IwAR2GnHx3WB6cUC3bEztVTSWwr2HpVyDBKFWiZ3Fmj4hrU3hlWi9bJ8XQQ28)
+
+- Internal racialised controls increase marginalisation and discrimination in Sweden\. Read here the article:
+
+
+
+[![]()](https://www.ips-journal.eu/topics/democracy-and-society/government-by-finger-pointing-6282/?fbclid=IwAR0jNkpSA4tYEEkY-gH4rFtUCz8dyV565QHfB73fLUvMjhXm9jGsvtJtE40)
+
+- The article tells the stories of seven babies who have died inside Home Office accomodation since 2020\. [Read it here](https://gal-dem.com/asylum-seeker-infant-deaths-home-office-investigation/?utm_campaign=later-linkinbio-galdemzine&utm_content=later-30603443&utm_medium=social&utm_source=linkin.bio&fbclid=IwAR3q6cJ4oJQ1MUnrrpSfk8lZTsahNtiM7tTAy1PTcRBsKV97WS2VRUa3V3Y)
+- ECRE analysed and described the externalisation policies at Europe’s southern borders and the funds given to third countries to militarise the borders\. This is causing more and more deaths in Mediterranean waters
+
+
+
+[![]()](https://ecre.org/eu-southern-borders-spain-and-eu-funding-for-morocco-amid-crack-down-on-migrants-iom-reports-thousands-of-deaths-on-the-atlantic-and-mediterranean-as-tragedies-continue-italy-funds-the-so-called-li/?fbclid=IwAR1Ld79U2bu_gaJlJw-S0iy2lN0hINxTFf8mRcdSbyG9PfDBd9FK0EZ3bUE)
+
+- These paragraphs recount the possible effects on the Polish population following the arrival of Ukrainian refugees and their reception:
+
+
+
+[![](https://images.thefirstnews.com/1000x667/aseryvtyaqzmerkudzjfr.jpeg)](https://www.thefirstnews.com/article/integration-of-ukrainians-may-raise-polish-gdp-says-deloitte-34072?fbclid=IwAR0be53Mi1pG0le0-LyJrnhFIFasrBDDHl8CjkWEnmStosgS2bgy3zGG7pc)
+
+
+**Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**
+
+**If you wish to contribute, either by writing a report or a story, or by joining the Info Gathering team, please let us know\!**
+
+**We strive to echo correct news from the ground through collaboration and fairness\. Every effort has been made to credit organisations and individuals with regard to the supply of information, video, and photo material \(in cases where the source wanted to be accredited\) \. Please notify us regarding corrections\.**
+
+**If there’s anything you want to share or comment, contact us through Facebook, Twitter or write to: areyousyrious@gmail\.com**
+
+
+
+_Converted [Medium Post](https://medium.com/are-you-syrious/ays-news-digest-28-10-22-people-handcuffed-and-injured-in-lesvos-53016c7274af) by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._
+>>>>>>> b8646ca (updates)
