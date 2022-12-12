@@ -207,7 +207,3 @@ THREAD https://t.co/d9fht29hG3
 **We strive to echo correct news from the ground through collaboration and fairness\. Every effort has been made to credit organisations and individuals with regard to the supply of information, video, and photo material \(in cases where the source wanted to be accredited\) \. Please notify us regarding corrections\.**
 
 **If there’s anything you want to share or comment, contact us through Facebook, Twitter or write to: areyousyrious@gmail\.com**
-
-
-
-_Converted [Medium Post](https://medium.com/are-you-syrious/ays-news-digest-8-9-12-2022-akif-rasouli-and-amir-zahiri-released-c8e54c864014) by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._
