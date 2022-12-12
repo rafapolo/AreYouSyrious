@@ -286,9 +286,3 @@ Meanwhile, [half of the people seeking asylum are unable to access legal aid](ht
 **We strive to echo correct news from the ground through collaboration and fairness\. Every effort has been made to credit organisations and individuals with regard to the supply of information, video, and photo material \(in cases where the source wanted to be accredited\) \. Please notify us regarding corrections\.**
 
 **If there’s anything you want to share or comment, contact us through Facebook, Twitter or write to: areyousyrious@gmail\.com**
-
-
-
-_Converted [Medium Post](https://medium.com/are-you-syrious/ays-7-11-22-selective-disembarkation-in-italy-forces-some-rescued-people-back-on-board-5c38c740f6ff) by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._
-=======
->>>>>>> b8646ca (updates)

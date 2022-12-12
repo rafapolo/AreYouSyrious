@@ -83,16 +83,13 @@ Read more below:
 
 [![](https://theshiftnews.com/wp-content/uploads/2022/10/Untitled-design-52.png)](https://theshiftnews.com/2022/10/31/msf-appalled-outraged-by-maltas-inaction-in-its-search-and-rescue-zone/)
 
-<<<<<<< HEAD
 
 [**Malta and Italy accused of delaying SOS request for rescued migrants**](https://famagusta-gazette.com/2022/10/31/malta-and-italy-accused-of-delaying-sos-request-for-rescued-migrants/?fbclid=IwAR3xgEHUUR8CDv2-vXfh6sHd2drLKaB6EhZq54hRDNerdRzkplKnhFbtaoQ) 
 [_For more than a week, the rescue ship Humanity 1 has been waiting for a place of safety for 179 people rescued from…_ famagusta\-gazette\.com](https://famagusta-gazette.com/2022/10/31/malta-and-italy-accused-of-delaying-sos-request-for-rescued-migrants/?fbclid=IwAR3xgEHUUR8CDv2-vXfh6sHd2drLKaB6EhZq54hRDNerdRzkplKnhFbtaoQ)
-=======
 
 
 [![]()](https://famagusta-gazette.com/2022/10/31/malta-and-italy-accused-of-delaying-sos-request-for-rescued-migrants/?fbclid=IwAR3xgEHUUR8CDv2-vXfh6sHd2drLKaB6EhZq54hRDNerdRzkplKnhFbtaoQ)
 
->>>>>>> b8646ca (updates)
 #### FEATURE FROM THE UK
 #### Unacceptable conditions at Manston detention centre in Kent
 

@@ -68,11 +68,7 @@ Stated Home Secretary Suella Braverman\. Enver Solomon, chief executive of the R
 And at the following link, an article, with its focus on numbers, from an Albanian newspaper:
 
 
-<<<<<<< HEAD
 [![](https://albaniandailynews.com/foto/2022/11/20221101093309_art.jpg)](https://albaniandailynews.com/news/institutions-to-take-measures-on-lowering-migrants-numbers?fbclid=IwAR19psFtCak328D7hn8eY-IMF6NSqbFNJMwuNx8EaxmSYrxU6WrGWIWb8Nw)
-=======
-[![]()](https://albaniandailynews.com/news/institutions-to-take-measures-on-lowering-migrants-numbers?fbclid=IwAR19psFtCak328D7hn8eY-IMF6NSqbFNJMwuNx8EaxmSYrxU6WrGWIWb8Nw)
->>>>>>> b8646ca (updates)
 
 
 No visas\. No regular access\. And once they arrive, risking their lives: No reception\. Overcrowding at the Manston centre is inflaming the political debate these days\. Between the organisations and people who denounced the situation, Soas Detainee Support\. Here is their thread about the Manston centre:

@@ -1,13 +1,8 @@
 ---
 title: AYS News Digest 28/10/22: People handcuffed and injured in Lesvos
 author: Are You Syrious?
-<<<<<<< HEAD
-date: 2022-10-29T13:57:38.909+0000
-last_modified_at: 2022-10-29T13:57:38.909+0000
-=======
 date: 2022-10-29T14:57:38.909+0100
 last_modified_at: 2022-10-29T14:57:38.909+0100
->>>>>>> b8646ca (updates)
 categories: Are You Syrious?
 tags: []
 description: Msf team found abused people on the Greek island of Lesvos//Lebanon started new “voluntary return” program to Syria//The Italian government…
