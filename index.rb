@@ -1,3 +1,7 @@
+# how to generate this backup?
+#1 -  ZMediumToMarkdown -u AreYouSyrious 
+#2 -  ruby index.rb > README.md
+
 require "date"
 require "byebug"
 
