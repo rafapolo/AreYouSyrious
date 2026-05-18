@@ -23,6 +23,7 @@ USAGE = <<~USAGE
     recover  Recover broken images via Wayback Machine CDX API
     index    Write INDEX.md (chronological post list)
     readme   Write README.md (stats + asset counts + link to INDEX.md)
+    html     Write index.html (all asset images, max 500px wide, no gap)
     all      Run: images → thumbs → recover → index → readme
 
   Options:
@@ -635,6 +636,38 @@ def cmd_readme
   puts "README.md written — #{dates.size} posts, #{asset_files.size} images, ~#{assets_mb} MB."
 end
 
+# ── subcommand: html ──────────────────────────────────────────────────────────
+
+def cmd_html
+  images = Dir.glob(File.join(REPO_ROOT, "assets", "**", "*.{jpg,jpeg,png,gif,webp,svg}"))
+              .sort
+              .map { |f| f.sub(REPO_ROOT + "/", "") }
+
+  html = <<~HTML
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <title>AreYouSyrious — image archive (#{images.size} images)</title>
+    <style>
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{background:#111;line-height:0}
+    .gallery{display:flex;flex-wrap:wrap}
+    img{max-width:500px;display:block}
+    </style>
+    </head>
+    <body>
+    <div class="gallery">
+    #{images.map { |src| %(<img src="#{src}" loading="lazy" decoding="async">) }.join("\n")}
+    </div>
+    </body>
+    </html>
+  HTML
+
+  File.write(File.join(REPO_ROOT, "index.html"), html)
+  puts "index.html written — #{images.size} images."
+end
+
 # ── subcommand: all ────────────────────────────────────────────────────────────
 
 def cmd_all(with_fetch:)
@@ -676,6 +709,7 @@ when "thumbs"  then cmd_thumbs
 when "recover" then cmd_recover
 when "index"   then cmd_index
 when "readme"  then cmd_readme
+when "html"    then cmd_html
 when "all"     then cmd_all(with_fetch: with_fetch)
 else
   $stderr.puts "Unknown command: #{command}"
