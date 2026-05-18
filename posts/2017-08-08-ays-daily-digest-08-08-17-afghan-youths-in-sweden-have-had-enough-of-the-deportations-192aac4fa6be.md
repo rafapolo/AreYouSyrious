@@ -205,7 +205,7 @@ Photo: [Info Park](https://www.facebook.com/infoparkserbia/)
 Spain is one of several states that is voluntarily a signatory of the optional Protocol to the Convention on the Rights of the Child on a Communications Procedure, which is meant to protect individual children and groups of children who claim that there has been a violation of their rights under the convention\. Despite this, the Spanish government has failed to protect the children\. UN has reacted to this issue and last month, six organizations in Spain, Amnesty International, Fundacion Raices, the General Council of Spanish Lawyers, the Jesuit Mission for Migrants, Noves Vies and Save the Children, demanded that the Spanish Government change its practices and live up to its obligations\.
 
 
-[![](https://media.euobserver.com/67d8a895a21062b5144916f1c9544e42-800x.jpg)](https://euobserver.com/opinion/138691)
+[![](../assets/192aac4fa6be/67d8a895a21062b5144916f1c9544e42-800x.jpg)](https://euobserver.com/opinion/138691)
 
 
 **Update from Ceuta**

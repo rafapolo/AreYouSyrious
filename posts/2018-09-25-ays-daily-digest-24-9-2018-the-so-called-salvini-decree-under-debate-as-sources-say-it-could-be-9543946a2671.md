@@ -68,9 +68,9 @@ Yet, the Aquarius remains at sea\. After rescuing approximately 50 people in the
 Demographics among the rescued, according to SOS Mediteranee, are as follows:
 
 
-![Photo: [SOS Mediteranee](https://onboard-aquarius.org/uploads/2018/09/0923_Rescue-recap.jpg)](../assets/9543946a2671/1*ozVulDCvwJDNNlSo7E93TQ.jpeg)
+![Photo: [SOS Mediteranee](../assets/9543946a2671/0923_Rescue-recap.jpg)](../assets/9543946a2671/1*ozVulDCvwJDNNlSo7E93TQ.jpeg)
 
-Photo: [SOS Mediteranee](https://onboard-aquarius.org/uploads/2018/09/0923_Rescue-recap.jpg)
+Photo: [SOS Mediteranee](../assets/9543946a2671/0923_Rescue-recap.jpg)
 
 In the Alboran Sea, [**SALVAMENTO MARÍTIMO** ‏](https://twitter.com/salvamentogob) rescued three boats carrying 150 people\. More information in Spanish follows below\.
 

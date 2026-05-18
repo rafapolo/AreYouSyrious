@@ -103,7 +103,7 @@ If you look inside the tents, you mostly see carpets on the floor so people have
 >Read our researches, what the EU funded NGOs do in Izmir:
 
 
-[![](https://miro.medium.com/max/1137/1*VILMsnzbZ4_0f75C9dbIog.jpeg)](https://medium.com/are-you-syrious/ays-special-about-turkey-between-caution-and-intransparency-f8bb8cb0dd)
+[![](../assets/654d3f925141/1_VILMsnzbZ4_0f75C9dbIog.jpeg)](https://medium.com/are-you-syrious/ays-special-about-turkey-between-caution-and-intransparency-f8bb8cb0dd)
 
 
 In order to support the people, the Refugees Foundation distributed 2800 liters of sunflower oil in the camps\. A five liter bottle lasts a family or community of up to eight people for some weeks\. But the 25 Lira \(~5 Euro\) are a lot for them\. Additionally, they provided medical aid together with a doctor\.

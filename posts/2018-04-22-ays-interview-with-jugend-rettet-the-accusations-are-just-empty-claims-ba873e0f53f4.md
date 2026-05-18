@@ -64,7 +64,7 @@ The Supreme Court of Cassation in Rome will decide on this on April 23\. The cou
 We see this as quite a positive signal\. However, the charges against the captain, the head of mission, and head of operations remain\. We will have to wait and see how the case develops\.
 
 
-[![](https://miro.medium.com/max/1119/1*imJ4HvbIPXrqA1QChgfM1g.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-18-4-18-give-us-the-migrants-or-we-will-kill-you-the-front-lines-of-4a84d6762437)
+[![](../assets/ba873e0f53f4/1_imJ4HvbIPXrqA1QChgfM1g.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-18-4-18-give-us-the-migrants-or-we-will-kill-you-the-front-lines-of-4a84d6762437)
 
 
 **In case the sentence is overturned, would you start to prepare the next mission immediately?**

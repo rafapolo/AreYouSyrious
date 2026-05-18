@@ -43,7 +43,7 @@ Alarmphone reports that one of their team members was arrested in Tangier and de
 Activists on Chios [say](https://www.facebook.com/groups/446386565554391/permalink/931673257025717/?hc_location=ufi) that the camp is not ready for the coming winter\. “There is no way of heating here”, it is said\. Hence, people are collecting wood to keep warm on cold days\. Additionally, volunteers are still not allowed to enter the area controlled by the army and provide aid there\. As the food is still being criticized as disgusting, people on the ground claim the nutrition is unhealthy\. Most of the people in the so\-called hotspots on the Aegean islands struggle with the conditions, as they are far too overcrowded\.
 
 
-[![](https://miro.medium.com/max/1200/1*njvCWTM9ve6Czd4yeAz77A.jpeg)](https://medium.com/are-you-syrious/ays-special-from-chios-dangerous-rumors-in-the-refugee-camp-of-vial-1809674cbd68)
+[![](../assets/ae50c46035e6/1_njvCWTM9ve6Czd4yeAz77A.jpeg)](https://medium.com/are-you-syrious/ays-special-from-chios-dangerous-rumors-in-the-refugee-camp-of-vial-1809674cbd68)
 
 
 
