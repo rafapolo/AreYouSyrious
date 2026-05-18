@@ -1,0 +1,67 @@
+name: Fetch new posts
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours
+  workflow_dispatch:          # manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: false
+
+      - name: Install ZMediumToMarkdown
+        run: gem install ZMediumToMarkdown -v 4.0.0
+
+      - name: Snapshot existing posts
+        run: ls posts/*.md 2>/dev/null | sort > /tmp/posts_before.txt || true
+
+      - name: Fetch new posts
+        env:
+          MEDIUM_COOKIE_SID: ${{ secrets.MEDIUM_COOKIE_SID }}
+          MEDIUM_COOKIE_UID: ${{ secrets.MEDIUM_COOKIE_UID }}
+        run: ruby fetch.rb
+
+      - name: Update fetched.csv
+        run: |
+          ls posts/*.md 2>/dev/null | sort > /tmp/posts_after.txt
+          NEW=$(comm -13 /tmp/posts_before.txt /tmp/posts_after.txt)
+          if [ -z "$NEW" ]; then
+            echo "No new posts — CSV unchanged."
+            exit 0
+          fi
+          [ -f fetched.csv ] || echo "date,title,medium_url,file" > fetched.csv
+          for FILE in $NEW; do
+            BASE=$(basename "$FILE" .md)
+            DATE=$(echo "$BASE" | grep -oE '^[0-9]{4}-[0-9]{2}-[0-9]{2}')
+            SLUG=$(echo "$BASE" | sed "s/^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-//")
+            URL="https://medium.com/are-you-syrious/${SLUG}"
+            TITLE=$(grep -m1 '^title:' "$FILE" | sed 's/^title: *//' | tr -d '"')
+            printf '%s,"%s",%s,%s\n' "$DATE" "$TITLE" "$URL" "$BASE" >> fetched.csv
+          done
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add posts/ assets/ README.md fetched.csv
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            COUNT=$(comm -13 /tmp/posts_before.txt /tmp/posts_after.txt | wc -l | tr -d ' ')
+            git commit -m "fetch: ${COUNT} new post(s)"
+            git push
+          fi
