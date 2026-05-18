@@ -653,7 +653,7 @@ def cmd_html
     *{margin:0;padding:0;box-sizing:border-box}
     body{background:#111;line-height:0}
     .gallery{display:flex;flex-wrap:wrap}
-    img{max-width:500px;display:block}
+    img{height:300px;width:auto;max-width:800px;display:block}
     </style>
     </head>
     <body>
