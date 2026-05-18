@@ -5,30 +5,36 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>AreYouSyrious — archive</title>
 <style>
-  :root{--bg:#0d0d0d;--fg:#e8e8e8;--muted:#888;--accent:#e05c2a;--border:#222}
+  :root{--bg:#0d0d0d;--fg:#e8e8e8;--muted:#888;--accent:#e05c2a;--border:#222;--w:1200px;--pad:clamp(1rem,4vw,3rem)}
   *{box-sizing:border-box;margin:0;padding:0}
-  body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,sans-serif;padding:0 1rem 4rem}
+  body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,sans-serif;padding:0 var(--pad) 4rem}
   a{color:var(--accent);text-decoration:none}
   a:hover{text-decoration:underline}
-  header{max-width:860px;margin:3rem auto 2rem;border-bottom:1px solid var(--border);padding-bottom:2rem}
-  header h1{font-size:2rem;letter-spacing:-.02em;margin-bottom:.5rem}
-  header p{color:var(--muted);max-width:55ch}
-  .stats{display:flex;flex-wrap:wrap;gap:1.5rem;margin-top:1.5rem}
-  .stat{background:#161616;border:1px solid var(--border);border-radius:6px;padding:.75rem 1.25rem}
-  .stat strong{display:block;font-size:1.5rem;color:var(--fg)}
-  .stat span{font-size:.8rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
-  nav{max-width:860px;margin:2rem auto;display:flex;flex-wrap:wrap;gap:.5rem}
-  nav a{background:#161616;border:1px solid var(--border);border-radius:4px;padding:.3rem .75rem;font-size:.85rem;color:var(--muted)}
+  header{max-width:var(--w);margin:3rem auto 2rem;border-bottom:1px solid var(--border);padding-bottom:2rem}
+  header h1{font-size:clamp(1.5rem,4vw,2.5rem);letter-spacing:-.02em;margin-bottom:.5rem}
+  header p{color:var(--muted);max-width:65ch;font-size:clamp(.9rem,2vw,1rem)}
+  .stats{display:flex;flex-wrap:wrap;gap:1rem;margin-top:1.5rem}
+  .stat{background:#161616;border:1px solid var(--border);border-radius:6px;padding:.75rem 1.25rem;min-width:0;flex:1 1 auto}
+  .stat strong{display:block;font-size:clamp(1rem,2.5vw,1.5rem);color:var(--fg)}
+  .stat span{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+  nav{max-width:var(--w);margin:2rem auto;display:flex;flex-wrap:wrap;gap:.5rem}
+  nav a{background:#161616;border:1px solid var(--border);border-radius:4px;padding:.3rem .75rem;font-size:.85rem;color:var(--muted);white-space:nowrap}
   nav a span{color:var(--fg);margin-left:.3rem}
   nav a:hover{border-color:var(--accent);color:var(--fg);text-decoration:none}
-  main{max-width:860px;margin:0 auto}
+  main{max-width:var(--w);margin:0 auto}
   section{margin-bottom:3rem}
-  section h2{font-size:1.25rem;color:var(--muted);border-bottom:1px solid var(--border);padding-bottom:.5rem;margin-bottom:1rem}
+  section h2{font-size:1.1rem;color:var(--muted);border-bottom:1px solid var(--border);padding-bottom:.5rem;margin-bottom:.75rem}
   ul{list-style:none}
-  li{display:flex;gap:1rem;padding:.35rem 0;border-bottom:1px solid #161616;align-items:baseline}
-  time{flex-shrink:0;font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums;width:6.5rem}
-  li a{font-size:.9rem;line-height:1.4}
-  footer{max-width:860px;margin:3rem auto 0;color:var(--muted);font-size:.8rem;border-top:1px solid var(--border);padding-top:1rem;display:flex;gap:1rem;flex-wrap:wrap}
+  li{display:flex;gap:.75rem;padding:.3rem 0;border-bottom:1px solid #161616;align-items:baseline}
+  time{flex-shrink:0;font-size:.75rem;color:var(--muted);font-variant-numeric:tabular-nums;width:5.5rem}
+  li a{font-size:.875rem;line-height:1.4;min-width:0}
+  footer{max-width:var(--w);margin:3rem auto 0;color:var(--muted);font-size:.8rem;border-top:1px solid var(--border);padding-top:1rem;display:flex;gap:1rem;flex-wrap:wrap}
+  @media(max-width:600px){
+    time{width:auto;min-width:5rem}
+    li{gap:.5rem;align-items:flex-start;flex-wrap:wrap}
+    li a{font-size:.85rem}
+    .stat{flex:1 1 100%}
+  }
 </style>
 </head>
 <body>
