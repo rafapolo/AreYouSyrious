@@ -611,15 +611,21 @@ def scan_posts
   [hash, dates.sort]
 end
 
-def country_counts
-  posts = Dir.glob(File.join(POSTS_DIR, "*.md")).sort
-  counts = Hash.new(0)
-  posts.each do |path|
+def country_data
+  per_post = {}
+  counts   = Hash.new(0)
+  Dir.glob(File.join(POSTS_DIR, "*.md")).sort.each do |path|
     text  = File.read(path, encoding: "utf-8") rescue next
     found = text.scan(COUNTRY_RE).map { |m| COUNTRY_NORM[m.downcase] }.compact.uniq
+    next if found.empty?
+    per_post[File.basename(path)] = found
     found.each { |c| counts[c] += 1 }
   end
-  counts.reject { |_, v| v.zero? }.sort_by { |_, v| -v }
+  [per_post, counts.reject { |_, v| v.zero? }.sort_by { |_, v| -v }]
+end
+
+def country_counts
+  country_data[1]
 end
 
 # ── subcommand: index ──────────────────────────────────────────────────────────
@@ -736,8 +742,10 @@ def cmd_site
   hash, dates = scan_posts
   by_year = dates.group_by { |d| d[0, 4] }.sort.reverse
   puts "Computing country stats..."
-  cc = country_counts
-  country_chips = cc.map { |c, n| "<span>#{c} (#{n})</span>" }.join("\n    ")
+  per_post, cc = country_data
+  country_options = cc.map { |c, n|
+    %(<option value="#{c.downcase}">#{c} (#{n})</option>)
+  }.join("\n      ")
 
   total   = dates.size
   first_d = dates.first
@@ -750,8 +758,9 @@ def cmd_site
                      .sort_by { |d, _| d }
                      .flat_map do |date, posts|
       posts.map do |desc, path|
-        archive_url = "https://github.com/rafapolo/AreYouSyrious/blob/posts/#{path}"
-        %(<li><time>#{date}</time><a href="#{archive_url}" target="_blank" rel="noopener">#{desc}</a></li>)
+        archive_url   = "https://github.com/rafapolo/AreYouSyrious/blob/posts/#{path}"
+        countries_val = (per_post[File.basename(path)] || []).map(&:downcase).join(",")
+        %(<li data-countries="#{countries_val}"><time>#{date}</time><a href="#{archive_url}" target="_blank" rel="noopener">#{desc}</a></li>)
       end
     end.join("\n      ")
 
@@ -789,6 +798,11 @@ def cmd_site
       nav a{background:#161616;border:1px solid var(--border);border-radius:4px;padding:.3rem .75rem;font-size:.85rem;color:var(--muted);white-space:nowrap}
       nav a span{color:var(--fg);margin-left:.3rem}
       nav a:hover{border-color:var(--accent);color:var(--fg);text-decoration:none}
+      .filter-bar{max-width:var(--w);margin:0 auto 2rem;display:flex;align-items:center;gap:.75rem;flex-wrap:wrap}
+      .filter-bar label{font-size:.8rem;color:var(--muted);white-space:nowrap}
+      #country-filter{background:#161616;border:1px solid var(--border);border-radius:4px;padding:.35rem .6rem;color:var(--fg);font-size:.85rem;cursor:pointer;min-width:220px}
+      #country-filter:focus{outline:none;border-color:var(--accent)}
+      #filter-count{font-size:.75rem;color:var(--muted)}
       main{max-width:var(--w);margin:0 auto}
       section{margin-bottom:3rem}
       section h2{font-size:1.1rem;color:var(--muted);border-bottom:1px solid var(--border);padding-bottom:.5rem;margin-bottom:.75rem}
@@ -796,16 +810,13 @@ def cmd_site
       li{display:flex;gap:.75rem;padding:.3rem 0;border-bottom:1px solid #161616;align-items:baseline}
       time{flex-shrink:0;font-size:.75rem;color:var(--muted);font-variant-numeric:tabular-nums;width:5.5rem}
       li a{font-size:.875rem;line-height:1.4;min-width:0}
-      .countries{max-width:var(--w);margin:0 auto 2rem}
-      .countries h3{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:.6rem}
-      .country-chips{display:flex;flex-wrap:wrap;gap:.3rem}
-      .country-chips span{background:#161616;border:1px solid var(--border);border-radius:3px;padding:.15rem .5rem;font-size:.75rem;color:var(--fg);white-space:nowrap}
       footer{max-width:var(--w);margin:3rem auto 0;color:var(--muted);font-size:.8rem;border-top:1px solid var(--border);padding-top:1rem;display:flex;gap:1rem;flex-wrap:wrap}
       @media(max-width:600px){
         time{width:auto;min-width:5rem}
         li{gap:.5rem;align-items:flex-start;flex-wrap:wrap}
         li a{font-size:.85rem}
         .stat{flex:1 1 100%}
+        #country-filter{min-width:0;width:100%}
       }
     </style>
     </head>
@@ -822,12 +833,14 @@ def cmd_site
     <nav>
       #{year_nav}
     </nav>
-    <section class="countries">
-      <h3>Countries mentioned</h3>
-      <div class="country-chips">
-        #{country_chips}
-      </div>
-    </section>
+    <div class="filter-bar">
+      <label for="country-filter">Filter by country</label>
+      <select id="country-filter">
+        <option value="">All countries (#{total})</option>
+        #{country_options}
+      </select>
+      <span id="filter-count"></span>
+    </div>
     <main>
     #{sections}
     </main>
@@ -835,6 +848,29 @@ def cmd_site
       <a href="https://medium.com/are-you-syrious" target="_blank" rel="noopener">Original on Medium</a>
       <a href="https://github.com/rafapolo/AreYouSyrious">GitHub</a>
     </footer>
+    <script>
+    (function(){
+      var sel=document.getElementById('country-filter');
+      var counter=document.getElementById('filter-count');
+      if(!sel)return;
+      sel.addEventListener('change',function(){
+        var val=sel.value;
+        var total=0,visible=0;
+        document.querySelectorAll('main section').forEach(function(sec){
+          var vis=0;
+          sec.querySelectorAll('li').forEach(function(li){
+            total++;
+            var ok=!val||(li.dataset.countries||'').split(',').includes(val);
+            li.hidden=!ok;
+            if(ok)vis++;
+          });
+          sec.hidden=vis===0;
+          visible+=vis;
+        });
+        counter.textContent=val?visible+' posts':'';
+      });
+    })();
+    </script>
     </body>
     </html>
   HTML
