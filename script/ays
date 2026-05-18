@@ -21,11 +21,12 @@ USAGE = <<~USAGE
     images   Download remote images referenced in posts
     thumbs   Download YouTube thumbnails for standalone video links
     recover  Recover broken images via Wayback Machine CDX API
-    index    Write INDEX.md (chronological post list)
-    readme   Write README.md (stats + asset counts + link to INDEX.md)
-    photos   Write photos.html (all asset images, 300px tall, centered)
-    site     Write index.html (GitHub Pages archive site)
-    all      Run: images → thumbs → recover → index → readme → site
+    index      Write INDEX.md (chronological post list)
+    readme     Write README.md (stats + asset counts + link to INDEX.md)
+    countries  Show all countries mentioned across posts with article counts
+    photos     Write photos.html (all asset images, 300px tall, centered)
+    site       Write index.html (GitHub Pages archive site)
+    all        Run: images → thumbs → recover → index → readme → site
 
   Options:
     --fetch  (all only) Prepend fetch step before images
@@ -81,6 +82,45 @@ rescue
 end
 
 UA_ARCHIVER = "Mozilla/5.0 (compatible; AYS-archiver/1.0)"
+
+COUNTRIES = [
+  "Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Antigua and Barbuda",
+  "Argentina", "Armenia", "Australia", "Austria", "Azerbaijan", "Bahamas",
+  "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize",
+  "Benin", "Bhutan", "Bolivia", "Bosnia", "Botswana", "Brazil", "Brunei",
+  "Bulgaria", "Burkina Faso", "Burundi", "Cabo Verde", "Cambodia", "Cameroon",
+  "Canada", "Central African Republic", "Chad", "Chile", "China", "Colombia",
+  "Comoros", "Congo", "Costa Rica", "Croatia", "Cuba", "Cyprus",
+  "Czech Republic", "Denmark", "Djibouti", "Dominica", "Dominican Republic",
+  "Ecuador", "Egypt", "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia",
+  "Eswatini", "Ethiopia", "Fiji", "Finland", "France", "Gabon", "Gambia",
+  "Georgia", "Germany", "Ghana", "Greece", "Grenada", "Guatemala", "Guinea",
+  "Guinea-Bissau", "Guyana", "Haiti", "Honduras", "Hungary", "Iceland", "India",
+  "Indonesia", "Iran", "Iraq", "Ireland", "Israel", "Italy", "Jamaica",
+  "Japan", "Jordan", "Kazakhstan", "Kenya", "Kiribati", "Kosovo", "Kuwait",
+  "Kyrgyzstan", "Laos", "Latvia", "Lebanon", "Lesotho", "Liberia", "Libya",
+  "Liechtenstein", "Lithuania", "Luxembourg", "Macedonia", "Madagascar", "Malawi",
+  "Malaysia", "Maldives", "Mali", "Malta", "Marshall Islands", "Mauritania",
+  "Mauritius", "Mexico", "Micronesia", "Moldova", "Monaco", "Mongolia",
+  "Montenegro", "Morocco", "Mozambique", "Myanmar", "Namibia", "Nauru", "Nepal",
+  "Netherlands", "New Zealand", "Nicaragua", "Niger", "Nigeria", "North Korea",
+  "North Macedonia", "Norway", "Oman", "Pakistan", "Palau", "Palestine",
+  "Panama", "Papua New Guinea", "Paraguay", "Peru", "Philippines", "Poland",
+  "Portugal", "Qatar", "Romania", "Russia", "Rwanda",
+  "Saint Kitts and Nevis", "Saint Lucia", "Saint Vincent and the Grenadines",
+  "Samoa", "San Marino", "Saudi Arabia", "Senegal", "Serbia", "Seychelles",
+  "Sierra Leone", "Singapore", "Slovakia", "Slovenia", "Solomon Islands",
+  "Somalia", "South Africa", "South Korea", "South Sudan", "Spain",
+  "Sri Lanka", "Sudan", "Suriname", "Sweden", "Switzerland", "Syria",
+  "Taiwan", "Tajikistan", "Tanzania", "Thailand", "Timor-Leste", "Togo",
+  "Tonga", "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan",
+  "Tuvalu", "Uganda", "Ukraine", "United Arab Emirates", "United Kingdom",
+  "United States", "Uruguay", "Uzbekistan", "Vanuatu", "Venezuela",
+  "Vietnam", "Yemen", "Zambia", "Zimbabwe"
+].freeze
+# Sorted longest-first so "Papua New Guinea" matches before "Guinea", etc.
+COUNTRY_RE   = /\b(?:#{COUNTRIES.sort_by { |c| -c.length }.map { |c| Regexp.escape(c) }.join("|")})\b/i
+COUNTRY_NORM = COUNTRIES.each_with_object({}) { |c, h| h[c.downcase] = c }.freeze
 
 def http_get(url, timeout: 60, max_redirects: 5)
   redirects = 0
@@ -571,6 +611,17 @@ def scan_posts
   [hash, dates.sort]
 end
 
+def country_counts
+  posts = Dir.glob(File.join(POSTS_DIR, "*.md")).sort
+  counts = Hash.new(0)
+  posts.each do |path|
+    text  = File.read(path, encoding: "utf-8") rescue next
+    found = text.scan(COUNTRY_RE).map { |m| COUNTRY_NORM[m.downcase] }.compact.uniq
+    found.each { |c| counts[c] += 1 }
+  end
+  counts.reject { |_, v| v.zero? }.sort_by { |_, v| -v }
+end
+
 # ── subcommand: index ──────────────────────────────────────────────────────────
 
 def cmd_index
@@ -637,6 +688,16 @@ def cmd_readme
   puts "README.md written — #{dates.size} posts, #{asset_files.size} images, ~#{assets_mb} MB."
 end
 
+# ── subcommand: countries ─────────────────────────────────────────────────────
+
+def cmd_countries
+  all = Dir.glob(File.join(POSTS_DIR, "*.md"))
+  puts "Scanning #{all.size} posts for country mentions...\n\n"
+  cc = country_counts
+  cc.each { |country, count| puts "#{country} (#{count})" }
+  puts "\n#{cc.size} countries mentioned."
+end
+
 # ── subcommand: photos ────────────────────────────────────────────────────────
 
 def cmd_photos
@@ -674,12 +735,15 @@ end
 def cmd_site
   hash, dates = scan_posts
   by_year = dates.group_by { |d| d[0, 4] }.sort.reverse
+  puts "Computing country stats..."
+  cc = country_counts
+  country_chips = cc.map { |c, n| "<span>#{c} (#{n})</span>" }.join("\n    ")
 
   total   = dates.size
   first_d = dates.first
   last_d  = dates.last
 
-  year_nav = by_year.map { |y, ds| %(<a href="#y#{y}">#{y} <span>#{ds.size}</span></a>) }.join("\n    ")
+  year_nav = by_year.map { |y, ds| %(<a href="#y#{y}">#{y} <span>(#{ds.size})</span></a>) }.join("\n    ")
 
   sections = by_year.map do |year, _|
     posts_html = hash.select { |d, _| d.start_with?(year) }
@@ -732,6 +796,10 @@ def cmd_site
       li{display:flex;gap:.75rem;padding:.3rem 0;border-bottom:1px solid #161616;align-items:baseline}
       time{flex-shrink:0;font-size:.75rem;color:var(--muted);font-variant-numeric:tabular-nums;width:5.5rem}
       li a{font-size:.875rem;line-height:1.4;min-width:0}
+      .countries{max-width:var(--w);margin:0 auto 2rem}
+      .countries h3{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:.6rem}
+      .country-chips{display:flex;flex-wrap:wrap;gap:.3rem}
+      .country-chips span{background:#161616;border:1px solid var(--border);border-radius:3px;padding:.15rem .5rem;font-size:.75rem;color:var(--fg);white-space:nowrap}
       footer{max-width:var(--w);margin:3rem auto 0;color:var(--muted);font-size:.8rem;border-top:1px solid var(--border);padding-top:1rem;display:flex;gap:1rem;flex-wrap:wrap}
       @media(max-width:600px){
         time{width:auto;min-width:5rem}
@@ -754,12 +822,17 @@ def cmd_site
     <nav>
       #{year_nav}
     </nav>
+    <section class="countries">
+      <h3>Countries mentioned</h3>
+      <div class="country-chips">
+        #{country_chips}
+      </div>
+    </section>
     <main>
     #{sections}
     </main>
     <footer>
       <a href="https://medium.com/are-you-syrious" target="_blank" rel="noopener">Original on Medium</a>
-      <a href="photos.html">Image gallery</a>
       <a href="https://github.com/rafapolo/AreYouSyrious">GitHub</a>
     </footer>
     </body>
@@ -811,10 +884,11 @@ when "fetch"   then cmd_fetch
 when "images"  then cmd_images
 when "thumbs"  then cmd_thumbs
 when "recover" then cmd_recover
-when "index"   then cmd_index
-when "readme"  then cmd_readme
-when "photos"  then cmd_photos
-when "site"    then cmd_site
+when "index"     then cmd_index
+when "readme"    then cmd_readme
+when "countries" then cmd_countries
+when "photos"    then cmd_photos
+when "site"      then cmd_site
 when "all"     then cmd_all(with_fetch: with_fetch)
 else
   $stderr.puts "Unknown command: #{command}"
