@@ -95,7 +95,7 @@ end
 
 # ── load work items ────────────────────────────────────────────────────────────
 
-broken = CSV.read(File.join(REPO_ROOT, "broken_links.csv"), headers: true)
+broken = CSV.read(File.join(REPO_ROOT, "meta", "broken_links.csv"), headers: true)
 puts "Loaded #{broken.count} broken links"
 
 work_items = []
@@ -211,8 +211,8 @@ puts "Not in Wayback         : #{stats[:not_found]}"
 puts "Download failed        : #{stats[:failed]}"
 puts "Skipped fbcdn          : #{skip_count}"
 
-CSV.open(File.join(REPO_ROOT, "recovery_log.csv"), "w") do |csv|
+CSV.open(File.join(REPO_ROOT, "meta", "recovery_log.csv"), "w") do |csv|
   csv << %w[post url status local_path wayback_timestamp]
   log.each { |r| csv << r }
 end
-puts "\nLog saved to recovery_log.csv"
+puts "\nLog saved to meta/recovery_log.csv"

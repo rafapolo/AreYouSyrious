@@ -14,10 +14,11 @@ require "csv"
 require "fileutils"
 require "shellwords"
 
-POSTS_DIR  = File.join(__dir__, "posts")
-ASSETS_DIR = File.join(__dir__, "assets")
-OUTPUT_DIR = File.join(__dir__, "Output", "users", "AreYouSyrious", "zmediumtomarkdown")
-CSV_PATH   = File.join(__dir__, "missing_posts.csv")
+REPO_ROOT  = File.expand_path("..", __dir__)
+POSTS_DIR  = File.join(REPO_ROOT, "posts")
+ASSETS_DIR = File.join(REPO_ROOT, "assets")
+OUTPUT_DIR = File.join(REPO_ROOT, "Output", "users", "AreYouSyrious", "zmediumtomarkdown")
+CSV_PATH   = File.join(REPO_ROOT, "meta", "missing_posts.csv")
 
 puts "==> AreYouSyrious — fetch missing posts"
 puts ""
@@ -28,7 +29,7 @@ puts ""
 
 # Load missing posts from CSV
 rows = CSV.read(CSV_PATH, headers: true)
-puts "    #{rows.count} posts in missing_posts.csv"
+puts "    #{rows.count} posts in meta/missing_posts.csv"
 
 # Skip already downloaded (match by post ID in filename)
 local_ids = Dir.glob(File.join(POSTS_DIR, "*.md")).filter_map do |f|
@@ -63,7 +64,7 @@ todo.each_with_index do |row, i|
 
   if success
     # Move new .md files from anywhere under Output/ → posts/
-    Dir.glob(File.join(__dir__, "Output", "**", "*.md")).each do |src|
+    Dir.glob(File.join(REPO_ROOT, "Output", "**", "*.md")).each do |src|
       dest = File.join(POSTS_DIR, File.basename(src))
       next if File.exist?(dest)
       content = File.read(src)
@@ -74,7 +75,7 @@ todo.each_with_index do |row, i|
     end
 
     # Move image folders from anywhere under Output/ → root assets/
-    Dir.glob(File.join(__dir__, "Output", "**", "assets", "*")).each do |folder|
+    Dir.glob(File.join(REPO_ROOT, "Output", "**", "assets", "*")).each do |folder|
       next unless File.directory?(folder)
       dest = File.join(ASSETS_DIR, File.basename(folder))
       FileUtils.mkdir_p(ASSETS_DIR)
@@ -89,7 +90,7 @@ todo.each_with_index do |row, i|
   end
 end
 
-FileUtils.rm_rf(File.join(__dir__, "Output"))
+FileUtils.rm_rf(File.join(REPO_ROOT, "Output"))
 
 puts "=" * 60
 puts "Downloaded : #{downloaded}"
@@ -99,5 +100,5 @@ failed.each { |u| puts "  #{u}" }
 # Rebuild README
 puts "\n==> Rebuilding README.md..."
 readme = `ruby #{Shellwords.escape(File.join(__dir__, "index.rb"))}`
-File.write(File.join(__dir__, "README.md"), readme)
+File.write(File.join(REPO_ROOT, "README.md"), readme)
 puts "Done — #{Dir.glob(File.join(POSTS_DIR, '*.md')).count} posts total."
