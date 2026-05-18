@@ -109,7 +109,7 @@ The EU is actively eroding the asylum system, failing to give meaningful protect
 See StateWatch’s recent report for more on this:
 
 
-[![](https://www.statewatch.org/media/3858/eu-frontex-funds.jpg)](https://www.statewatch.org/news/2023/april/frontex-to-spend-hundreds-of-millions-of-euros-on-surveillance-and-deportations/)
+[![](../assets/b320829bf84c/eu-frontex-funds.jpg)](https://www.statewatch.org/news/2023/april/frontex-to-spend-hundreds-of-millions-of-euros-on-surveillance-and-deportations/)
 
 
 **SEA / SAR**
@@ -200,7 +200,7 @@ See their [thread](https://twitter.com/rspaegean/status/1658108176556863489) on 
 Read this report from RSA and ProAsyl for greater depth investigation into Lesvos CCAC:
 
 
-[![](https://rsaegean.org/wp-content/uploads/2023/04/Karetepe-Septembrios-2022-Michalis-Bakas-copyrights.jpeg)](https://rsaegean.org/en/lesvos-2023/)
+[![](../assets/b320829bf84c/Karetepe-Septembrios-2022-Michalis-Bakas-copyrights.jpeg)](https://rsaegean.org/en/lesvos-2023/)
 
 #### SWITZERLAND
 #### Failures to protect people in the asylum system from sexual assault and violence
@@ -356,7 +356,7 @@ The IRC asks EU nations to expand their pledges for resettlement — a legal cha
 2 million refugees are currently in need of resettlement worldwide.
 
 
-[![](https://static.euobserver.com/2016/01/e0b1a136ff822ecf14942b04ef1d7d72.jpg)](https://euobserver.com/migration/157032?fbclid=IwAR31XpJUdBdjd4et159SnPAjT8raThBe8oEwVySKxAZzllFboOwSsax4M_I)
+[![](../assets/b320829bf84c/e0b1a136ff822ecf14942b04ef1d7d72.jpg)](https://euobserver.com/migration/157032?fbclid=IwAR31XpJUdBdjd4et159SnPAjT8raThBe8oEwVySKxAZzllFboOwSsax4M_I)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) .**

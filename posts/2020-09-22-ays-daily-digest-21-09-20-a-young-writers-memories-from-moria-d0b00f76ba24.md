@@ -177,7 +177,7 @@ On Sunday, the group started a hunger strike\. With the support of Info Kolpa th
 While many of the people detained in the centre haven’t had a chance to apply for asylum yet, some people who are currently undergoing the asylum process are also being held in the closed facility\. A new directive was given to the police in June to detain people for the time of the asylum procedure\. This is clearly an arbitrary detention\. Many people appealed against their detention at the administrative court and the court described their detention as unlawful\. Read more about the centre and the situation at the beginning of August in our Special\.
 
 
-[![](https://miro.medium.com/max/939/1*s4BTl8TXqtcfsrLHNT0lIg.png)](https://medium.com/are-you-syrious/ays-slovenia-special-protest-breaks-out-in-detention-centre-postojna-a-week-after-court-decision-e86065481fcb)
+[![](../assets/d0b00f76ba24/s4BTl8TXqtcfsrLHNT0lIg.png)](https://medium.com/are-you-syrious/ays-slovenia-special-protest-breaks-out-in-detention-centre-postojna-a-week-after-court-decision-e86065481fcb)
 
 
 For the full statement, see:

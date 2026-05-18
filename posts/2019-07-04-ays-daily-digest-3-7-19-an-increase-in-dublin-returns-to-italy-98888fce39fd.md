@@ -68,7 +68,7 @@ Reminder:
 People have been held in horrifying conditions in detention centers in Libya for a while now\. The European Union supports the Libyan Coast Guard quite literally ‘catching’ people from the sea\. Now, in spite of all the [accounts](ays-news-digest-18-19-5-19-thanks-to-the-political-hypocrisy-47-shipwrecked-deprived-of-their-33c6941942f5) , [reports](ays-special-from-libya-on-the-ben-ghasr-shooting-85070b9532af) and [news coverage](https://t.co/emcLoWJTih) , warnings and pleas, they are being killed in the civil war\.
 
 
-[![](https://miro.medium.com/max/1200/1*az-v9-4zh72illRMyeTXIA.jpeg)](https://medium.com/are-you-syrious/ays-news-digest-18-19-5-19-thanks-to-the-political-hypocrisy-47-shipwrecked-deprived-of-their-33c6941942f5)
+[![](../assets/98888fce39fd/az-v9-4zh72illRMyeTXIA.jpeg)](https://medium.com/are-you-syrious/ays-news-digest-18-19-5-19-thanks-to-the-political-hypocrisy-47-shipwrecked-deprived-of-their-33c6941942f5)
 
 
 There are many other perspectives on the consequences of the bombing:

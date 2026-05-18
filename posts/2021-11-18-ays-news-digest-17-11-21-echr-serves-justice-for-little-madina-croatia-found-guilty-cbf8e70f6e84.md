@@ -37,7 +37,7 @@ From the text of [the verdic](https://l.facebook.com/l.php?u=https%3A%2F%2Fhudoc
 
 
 
-[![](https://miro.medium.com/max/1080/1*6fDcf-3b5yLZ_zMxL2_WTw.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-1-6-2018-who-is-responsible-for-the-horrow-we-are-living-in-85ee87c1c3a7)
+[![](../assets/cbf8e70f6e84/6fDcf-3b5yLZ_zMxL2_WTw.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-1-6-2018-who-is-responsible-for-the-horrow-we-are-living-in-85ee87c1c3a7)
 
 
 
@@ -231,7 +231,7 @@ The beach response group had been on high alert all day.
 
 
 
-[![](https://miro.medium.com/max/940/1*Ud41dZB-alO2lLZaPQf8sw.png)](https://medium.com/are-you-syrious/ays-note-from-the-team-please-let-us-know-what-you-think-8eaef3db6c30)
+[![](../assets/cbf8e70f6e84/Ud41dZB-alO2lLZaPQf8sw.png)](https://medium.com/are-you-syrious/ays-note-from-the-team-please-let-us-know-what-you-think-8eaef3db6c30)
 
 #### WORTH READING
 - Our network, the BVMN has issued the most recent report with much essential information:

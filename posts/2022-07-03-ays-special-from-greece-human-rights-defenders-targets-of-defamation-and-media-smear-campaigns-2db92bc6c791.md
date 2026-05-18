@@ -115,7 +115,7 @@ After a recent country visit to Greece \(June 2022\), UN Special Rapporteur on t
 At the end of 2020, AYS published [a special](ays-special-from-greece-the-evros-border-a-shocking-year-of-systematised-violations-fad0f7eb48fb) that detailed the marked deterioration of the situation at the Evros land border across a year of shocking systematised violations\.
 
 
-[![](https://miro.medium.com/max/1200/1*jC5-JvE3quOhV6Py8rM-2w.jpeg)](https://medium.com/are-you-syrious/ays-special-from-greece-the-evros-border-a-shocking-year-of-systematised-violations-fad0f7eb48fb)
+[![](../assets/2db92bc6c791/jC5-JvE3quOhV6Py8rM-2w.jpeg)](https://medium.com/are-you-syrious/ays-special-from-greece-the-evros-border-a-shocking-year-of-systematised-violations-fad0f7eb48fb)
 
 
 It ended by saying, “reporters in the region have continued to accumulate evidence, and continued to be met with point\-blank denial by Greek authorities, or entirely ignored by the European Commission”\. The state of play in 2022 is far worse with technologies of control and manipulation at the land border further developed, the architecture of pushbacks further entrenched, and the backlash against civil society actors further enhanced\.

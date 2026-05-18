@@ -72,7 +72,7 @@ Broken and unsanitary bathroom facilities at Amygdaleza\. Credit: [The Crisis Is
 Medium page [The Crisis Isn't Over](https://medium.com/u/943d9fd29334) reports on the recent protests and appalling conditions in Amygdaleza, an immigration detention centre on the outskirts of Athens\. The report highlights how the conditions are unsanitary and overcrowded with broken facilities throughout\. [The Crisis Isn't Over](https://medium.com/u/943d9fd29334) also reports on the multiple suicide attempts that have been made in Amygdaleza, arguing that they were all preventable if the appropriate medical care had been provided at the time\. To read the full report please see:
 
 
-[![](https://miro.medium.com/max/1080/1*NACynqADgKQDHACRO4_f9A.png)](https://medium.com/@the.crisis.isnt.over/amygdaleza-is-burning-photo-report-from-a-greek-immigration-detention-centre-c088a97cdfec)
+[![](../assets/32df1335f497/NACynqADgKQDHACRO4_f9A.png)](https://medium.com/@the.crisis.isnt.over/amygdaleza-is-burning-photo-report-from-a-greek-immigration-detention-centre-c088a97cdfec)
 
 ### **Finland**
 

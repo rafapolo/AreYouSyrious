@@ -22,7 +22,7 @@ Source: Push\-Back Alarm Austria
 Now it is also [confirmed](ays-daily-digest-5-7-21-court-confirmed-the-systemic-chain-pushbacks-b8e0749604ad) by the Supreme Court: In Sicheldorf, southern Styria, **police officers carried out an illegal push\-back to Slovenia during the tenure of Interior Minister Karl Nehammer** \.
 
 
-[![](https://miro.medium.com/max/960/1*G5o-oZWdDWkXbfvzBJ_JJQ.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-10-09-21-a-visit-to-the-austrian-border-police-doing-what-they-are-told-at-d61f88d8b2e5)
+[![](../assets/6a9392f541a1/G5o-oZWdDWkXbfvzBJ_JJQ.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-10-09-21-a-visit-to-the-austrian-border-police-doing-what-they-are-told-at-d61f88d8b2e5)
 
 
 Our partners and friends from Austria with whom we worked on providing the visibility to the issue of chain pushbacks \(see our earlier [report](ays-daily-digest-10-09-21-a-visit-to-the-austrian-border-police-doing-what-they-are-told-at-d61f88d8b2e5) from the Austrian border in September 2021\) reported:

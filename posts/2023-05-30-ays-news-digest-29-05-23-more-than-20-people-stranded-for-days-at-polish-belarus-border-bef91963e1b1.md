@@ -173,7 +173,7 @@ Following the murder of Fatmata, shot and killed by a North Macedonian police of
 We wrote about the event that led to the killing of Fatmata here:
 
 
-[![](https://miro.medium.com/v2/resize:fit:1200/1*EeorDoXMeFyc1T0_H-vsJg.jpeg)](https://medium.com/are-you-syrious/ays-news-digest-26-04-2023-fatmata-family-ask-for-justice-223f6f3b95ba)
+[![](../assets/bef91963e1b1/EeorDoXMeFyc1T0_H-vsJg.jpeg)](https://medium.com/are-you-syrious/ays-news-digest-26-04-2023-fatmata-family-ask-for-justice-223f6f3b95ba)
 
 #### FRANCE
 ### People apprehended while crossing the Channel were injured and left without help by the French authorities

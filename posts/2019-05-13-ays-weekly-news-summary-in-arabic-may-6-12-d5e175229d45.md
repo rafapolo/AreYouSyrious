@@ -162,7 +162,7 @@ image:
 تتماشى هذه الروايات أيضًا مع ممارسات الشرطة السلوفينية ، التي يُعد الطرد من خطواتها في وزارة التجارة التي تم ترتيبها بشكل واضح استنادًا إلى سياسات التوريق\. إليك تقرير عن عمليات الدفع من سلوفينيا:
 
 
-[![](https://miro.medium.com/max/720/1*h8fj81vpqqNRrVDG9wVvfw.jpeg)](https://medium.com/are-you-syrious/report-on-illegal-practice-of-collective-expulsion-on-slovene-croatian-border-e1210bf7dd8f)
+[![](../assets/d5e175229d45/h8fj81vpqqNRrVDG9wVvfw.jpeg)](https://medium.com/are-you-syrious/report-on-illegal-practice-of-collective-expulsion-on-slovene-croatian-border-e1210bf7dd8f)
 
 
 **يتوفر الكثير من الأخبار باللغة الإنجليزية يوميًا على صفحتنا في موقع الميديوم**

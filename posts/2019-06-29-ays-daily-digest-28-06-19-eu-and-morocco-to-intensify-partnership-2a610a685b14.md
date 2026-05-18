@@ -100,7 +100,7 @@ Meanwhile 16 people [made it](https://twitter.com/AngiKappa/status/1144473983196
 
 
 
-[![](https://miro.medium.com/max/1200/1*qtwzBw-auzC5w50a_6xW8Q.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-27-06-19-sea-watch-3-still-stranded-f9ed6dd3fd51)
+[![](../assets/2a610a685b14/qtwzBw-auzC5w50a_6xW8Q.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-27-06-19-sea-watch-3-still-stranded-f9ed6dd3fd51)
 
 ### Worth reading
 - [Alarmphone update March\-June](https://alarmphone.org/en/2019/06/28/alarm-phone-aegean-report/?post_type_release_type=post)

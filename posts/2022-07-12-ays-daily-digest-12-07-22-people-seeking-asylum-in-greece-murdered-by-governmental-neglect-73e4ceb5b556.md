@@ -43,7 +43,7 @@ See yesterday’s special for more information — ‘In most functioning democr
 Don’t miss reading our **AYS Special from Greece: Immediate Search and Rescue of Civilians Needed Now:**
 
 
-[![](https://miro.medium.com/max/1200/1*qfcQhYXduP-Mit7DG0DrNA.jpeg)](https://medium.com/are-you-syrious/ays-special-from-greece-immediate-search-and-rescue-of-civilians-needed-now-84cab804c0a2)
+[![](../assets/73e4ceb5b556/qfcQhYXduP-Mit7DG0DrNA.jpeg)](https://medium.com/are-you-syrious/ays-special-from-greece-immediate-search-and-rescue-of-civilians-needed-now-84cab804c0a2)
 
 #### SAR
 

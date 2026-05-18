@@ -124,7 +124,7 @@ Healthcare is provided only by volunteers with various medical experience, so th
 **Read our AYS Special: Outsiders’ perspective — The Bosnian Frontier:**
 
 
-[![](https://miro.medium.com/max/1200/1*xcPhTS2bFQchoe0h54SlGg.jpeg)](https://medium.com/are-you-syrious/ays-special-outsiders-perspective-the-bosnian-frontier-58a21c38c799)
+[![](../assets/a09d4458e39/xcPhTS2bFQchoe0h54SlGg.jpeg)](https://medium.com/are-you-syrious/ays-special-outsiders-perspective-the-bosnian-frontier-58a21c38c799)
 
 
 Late during the night, 38 people who reportedly came via Bosnia and Herzegovina, arrived at the Reception centre, Porin, in Croatia’s capital\.

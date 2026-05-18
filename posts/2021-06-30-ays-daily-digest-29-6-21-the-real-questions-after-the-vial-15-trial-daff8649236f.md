@@ -22,7 +22,7 @@ _Photo credit: Politischios\.gr_
 In April last year, a curfew was imposed on the residents of Vial camp as part of measures to prevent the spread of Covid\-19\. The curfew and other restrictive measures meant that sufficient basic supplies were not provided for the affected people, and riots ensued at the camp\.
 
 
-[![](https://miro.medium.com/max/1200/1*Erwd33DRj-d_gK37uA9ceg.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-23-6-21-greece-vial15-under-trial-2387b8eb0fbe)
+[![](../assets/daff8649236f/Erwd33DRj-d_gK37uA9ceg.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-23-6-21-greece-vial15-under-trial-2387b8eb0fbe)
 
 
 The rage of the people in the camp reached a peak when an Iraqi woman died in an isolation container without having received sufficient medical treatment, something that many had feared for some time\. The riots became heated and 15 people were arrested: they have now stood trial\. An activist solidarity group [summed up](https://cantevictsolidarityenglish.noblogs.org/post/2021/06/29/press-release-final-judgement-against-the-vial-15/?fbclid=IwAR0j706ml26pjiPOB0oxsVx0sYW3Jk4rdxcG_oWJHroOau-vAQLAqaHqICI) the case:

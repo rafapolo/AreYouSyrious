@@ -1,60 +1,53 @@
 # Scripts
 
-All scripts resolve paths relative to the repo root, so they can be run from any directory.
+All scripts resolve paths relative to the repo root and can be run from any directory.
 
-## fetch.sh
+## ays — unified pipeline CLI
 
-```bash
-bash script/fetch.sh
+```
+ruby script/ays <command> [options]
 ```
 
-Downloads every post listed in `meta/missing_posts.csv` that isn't already in `posts/`.
-Reads `sid` and `cf_clearance` from `.env`, passes them to ZMediumToMarkdown, moves the
-resulting `.md` files to `posts/` and images to `assets/`, then rebuilds `README.md`.
-Safe to interrupt and re-run — already-downloaded posts are skipped automatically.
+| Command | What it does |
+|---------|-------------|
+| `fetch` | Download missing posts from Medium via ZMediumToMarkdown, then rebuild README |
+| `images` | Download remote images referenced in posts and replace URLs with local paths |
+| `thumbs` | Download YouTube thumbnails for standalone video links and embed them |
+| `recover` | Recover broken images via Wayback Machine CDX API |
+| `index` | Regenerate README.md from posts (prints to stdout) |
+| `all` | Run full pipeline: images → thumbs → recover → index |
 
-Requires: `ZMediumToMarkdown` gem, `.env` with `sid` and `cf_clearance` cookies from medium.com.
+**Options:**
 
-## fetch.rb
+- `--fetch` — (for `all` only) prepend the `fetch` step before images
 
-Called by `fetch.sh`. Can also be run directly if cookies are already exported:
-
-```bash
-MEDIUM_COOKIE_SID=... MEDIUM_COOKIE_CF_CLEARANCE=... ZMTM_TOS_ACCEPTED=1 ruby script/fetch.rb
-```
-
-## index.rb
-
-Regenerates `README.md` from the posts in `posts/`:
+**Examples:**
 
 ```bash
-ruby script/index.rb > README.md
+ruby script/ays fetch
+ruby script/ays images
+ruby script/ays thumbs
+ruby script/ays recover
+ruby script/ays index > README.md
+ruby script/ays all
+ruby script/ays all --fetch
 ```
 
-## download_images.rb
+## Authentication (fetch only)
 
-Scans all posts for remote image URLs and downloads them into `assets/<post-id>/`,
-replacing the remote URLs in the markdown with local `../assets/` paths. Idempotent.
+`fetch` reads `.env` from the repo root. Required keys:
 
-```bash
-ruby script/download_images.rb
+```
+sid=<value>
+cf_clearance=<value>
 ```
 
-## download_yt_thumbs.rb
+These are mapped to `MEDIUM_COOKIE_SID` and `MEDIUM_COOKIE_CF_CLEARANCE` for ZMediumToMarkdown.
+`cf_clearance` expires in minutes — refresh it from your browser if fetch gets blocked.
 
-Finds standalone YouTube links in posts and replaces them with linked thumbnail images,
-saving the thumbnails to `assets/<post-id>/`. Idempotent.
+## Meta files
 
-```bash
-ruby script/download_yt_thumbs.rb
-```
-
-## recover_broken_images.rb
-
-Reads `meta/broken_links.csv` and attempts to recover each image via the Wayback Machine
-CDX API. Skips expired Facebook CDN URLs (unrecoverable). Saves recovered images to
-`assets/<post-id>/` and patches the posts in place. Writes a log to `meta/recovery_log.csv`.
-
-```bash
-ruby script/recover_broken_images.rb
-```
+- `meta/missing_posts.csv` — list of posts to fetch (`date,title,url`)
+- `meta/all_posts_urls.csv` — full known post URL list
+- `meta/broken_links.csv` — broken image URLs for the `recover` command
+- `meta/recovery_log.csv` — output log written by `recover`

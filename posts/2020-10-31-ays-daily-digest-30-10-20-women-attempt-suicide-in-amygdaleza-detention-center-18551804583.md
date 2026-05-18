@@ -83,7 +83,7 @@ As some noticed, what is obvious in the whole process is “the show of strength
 We have published an AYS Special dedicated to this topic:
 
 
-[![](https://miro.medium.com/max/1031/1*KkIaH-DdH7VsM5sMki_mkA.jpeg)](https://medium.com/are-you-syrious/ays-special-day-of-shame-on-lesvos-pikpa-under-eviction-348958025fd4)
+[![](../assets/18551804583/KkIaH-DdH7VsM5sMki_mkA.jpeg)](https://medium.com/are-you-syrious/ays-special-day-of-shame-on-lesvos-pikpa-under-eviction-348958025fd4)
 
 #### THE BALKAN ROUTE
 #### GREECE

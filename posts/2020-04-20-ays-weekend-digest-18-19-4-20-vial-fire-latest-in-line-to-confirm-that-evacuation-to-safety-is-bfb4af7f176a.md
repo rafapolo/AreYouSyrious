@@ -22,7 +22,7 @@ During this weekend a tragic incident happened at the Vial camp on Chios\.
 Please, read about it in our latest [AYS Special](ays-special-from-chios-fire-swallows-up-makeshift-homes-of-thousands-2cf8808d3106) , based on the statements and accounts by people on the ground at the time and residents of the camp\.
 
 
-[![](https://miro.medium.com/max/1156/1*gVk39Ypoh1kIZzc8Fs-fpg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-chios-fire-swallows-up-makeshift-homes-of-thousands-2cf8808d3106)
+[![](../assets/bfb4af7f176a/gVk39Ypoh1kIZzc8Fs-fpg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-chios-fire-swallows-up-makeshift-homes-of-thousands-2cf8808d3106)
 
 
 There were big fires in a number of different areas\. One was near the front of the camp where the shop, the police kiosk and at least two police cars were burned down\. In the middle of the official camp the information & food distribution point were set ablaze, as well as the food stores\. At the back of the camp, perhaps the most devastating fire occurred\. At least three of the larger ‘Rubb Hall’ enclosures, which can accommodate well over 40 people, were burned down\. People’s homes have been completely destroyed, almost all of their personal belongings aside from what they could salvage are gone\.

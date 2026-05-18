@@ -137,7 +137,7 @@ Home Secretary Suella Braverman was accused by the opposition, who stated she wa
 Here is an article on the full discussion:
 
 
-[![](https://img.huffingtonpost.com/asset/647e1e6a2000001b008f31a1.jpg?ops=1200_630)](https://www.huffingtonpost.co.uk/entry/yvette-cooper-suella-braverman-asylum-claims_uk_647e1858e4b02325c5e22d5e)
+[![](../assets/b66084cb0c54/647e1e6a2000001b008f31a1.jpg)](https://www.huffingtonpost.co.uk/entry/yvette-cooper-suella-braverman-asylum-claims_uk_647e1858e4b02325c5e22d5e)
 
 #### EUROPE
 ### EU Interior Council discuss the future of the Common European Asylum System and Dublin Protocol
@@ -177,7 +177,7 @@ After a 439 YEAR-sentence, three men in search of safety were accused of smuggli
 Read more here:
 
 
-[![](https://www.borderline-europe.de/sites/default/files/arbeit/Syros_Trial%20outcome_Twitter%281%29.png)](https://www.borderline-europe.de/unsere-arbeit/der-kampf-geht-weiter-berufungsverfahren-der-paros3-am-080623?l=en)
+[![](../assets/b66084cb0c54/Syros_Trial%20outcome_Twitter%281%29.png)](https://www.borderline-europe.de/unsere-arbeit/der-kampf-geht-weiter-berufungsverfahren-der-paros3-am-080623?l=en)
 
 #### WORTH READING/WATCHING:
 - German NGO Mission Lifeline sent a response team into Ukraine to provide support to those affected by the blowing up of the Khakhova Dam and resulting floods. It is possible to follow the page [here](https://twitter.com/SEENOTRETTUNG?fbclid=IwAR3DM3kU21jqYmHLteX5lU2KoUMvbNI5LUR4038-9qV4o7uLhbR-EhYgXJg)

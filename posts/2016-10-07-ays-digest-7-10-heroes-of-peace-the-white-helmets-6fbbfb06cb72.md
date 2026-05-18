@@ -36,7 +36,7 @@ The Agency will have the mandate to work in cooperation with third countries, â€
 We looked into EU success in tackling this humanitarian crisis so far\. Read AYS Special Report on 200 days of EU\-Turkey deal\.
 
 
-[![](https://miro.medium.com/max/1200/1*i8sGd4DMYyVk56Wfb8FI4g.jpeg)](https://medium.com/@AreYouSyrious/today-the-agreement-on-refugees-becomes-200-days-old-5656e6ce0dbf)
+[![](../assets/6fbbfb06cb72/i8sGd4DMYyVk56Wfb8FI4g.jpeg)](https://medium.com/@AreYouSyrious/today-the-agreement-on-refugees-becomes-200-days-old-5656e6ce0dbf)
 
 ### Mediterranean
 

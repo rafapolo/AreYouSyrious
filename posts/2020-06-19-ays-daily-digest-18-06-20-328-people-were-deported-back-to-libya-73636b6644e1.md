@@ -124,11 +124,11 @@ The last families and groups of refugees that gathered at **Victoria Square** in
 For more information, see the daily digests for June 16th and 17th:
 
 
-[![](https://miro.medium.com/max/720/0*_9DZ16AeVqiTMkMb.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-17-6-20-manipulations-and-police-pressure-across-the-balkans-78c14728520b)
+[![](../assets/73636b6644e1/_9DZ16AeVqiTMkMb.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-17-6-20-manipulations-and-police-pressure-across-the-balkans-78c14728520b)
 
 
 
-[![](https://miro.medium.com/max/900/1*6OekVuXv4YHIDeEk1p-etw.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-16-06-20-hundreds-of-people-transferred-to-athens-from-lesvos-with-nowhere-to-go-b589f984a260)
+[![](../assets/73636b6644e1/6OekVuXv4YHIDeEk1p-etw.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-16-06-20-hundreds-of-people-transferred-to-athens-from-lesvos-with-nowhere-to-go-b589f984a260)
 
 
 This video shows how ruthlessly the Greek police interact with both journalists and refugees:

@@ -56,7 +56,7 @@ As explained on the website:
 
 
 
-[![](https://tutelavolontaria.garanteinfanzia.org/wp-content/uploads/2025/05/tutela-2-hp.jpg)](https://tutelavolontaria.garanteinfanzia.org/index.php/)
+[![](../assets/50b05d60ea5a/tutela-2-hp.jpg)](https://tutelavolontaria.garanteinfanzia.org/index.php/)
 
 
 Moreover [this report](https://tutelavolontaria.garanteinfanzia.org/sites/default/files/2023-11/DEFINITIVO_V%20Report%20monitoraggio%2003.11.2023%20%28DEFINITIVO%29__0.pdf) describes in detail the overall situation of foreign minors in Italy.

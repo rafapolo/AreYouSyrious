@@ -86,7 +86,7 @@ The whole story🧵👇 https://t.co/24hsTmsejb
 We wrote about the Front\-LEX decision in the recent digest:
 
 
-[![](https://miro.medium.com/max/1022/1*Oow-1diGDNzdZAYKuGXs0w.png)](https://medium.com/are-you-syrious/ays-news-digest-10-10-22-serbian-interior-minister-calls-migrants-scums-after-makeshift-camp-dac920e92701)
+[![](../assets/7d5891322b25/Oow-1diGDNzdZAYKuGXs0w.png)](https://medium.com/are-you-syrious/ays-news-digest-10-10-22-serbian-interior-minister-calls-migrants-scums-after-makeshift-camp-dac920e92701)
 
 
 But to be proven is not only Frontex’s responsibility in illegal rejections by Greek border guards\. Frontex covered up a pushback from Malta to Libya as well \(read more [here](https://www.spiegel.de/ausland/eu-untersuchungsbericht-frontex-vertuschte-auch-pushback-nach-libyen-a-3fdcc994-b84d-476f-9676-c7a9533c7443) \)
@@ -115,7 +115,7 @@ Read more [here](https://www.facebook.com/klikaktiv/posts/pfbid02MVEhmAKsXPwyfiZ
 The increase in numbers parallels the institutional violence and evictions we have discussed here:
 
 
-[![](https://miro.medium.com/max/1022/1*Oow-1diGDNzdZAYKuGXs0w.png)](https://medium.com/are-you-syrious/ays-news-digest-10-10-22-serbian-interior-minister-calls-migrants-scums-after-makeshift-camp-dac920e92701)
+[![](../assets/7d5891322b25/Oow-1diGDNzdZAYKuGXs0w.png)](https://medium.com/are-you-syrious/ays-news-digest-10-10-22-serbian-interior-minister-calls-migrants-scums-after-makeshift-camp-dac920e92701)
 
 #### POLAND
 ### Hunger strike in a closed detention centre

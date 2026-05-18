@@ -105,7 +105,7 @@ Yesterday 23 Turkish citizens arrived on Chios seeking asylum. What if a floatin
 ### Athens: Victoria square — an overview
 
 
-[![](https://miro.medium.com/max/1200/1*9oGDd1LLssg-cxjV26lcpw.jpeg)](https://medium.com/@the.crisis.isnt.over/what-use-is-being-recognised-as-a-refugee-if-you-still-cannot-survive-91dd2579c4be)
+[![](../assets/5790897a6922/9oGDd1LLssg-cxjV26lcpw.jpeg)](https://medium.com/@the.crisis.isnt.over/what-use-is-being-recognised-as-a-refugee-if-you-still-cannot-survive-91dd2579c4be)
 
 ### Sexual abuse at Petrou Ralli
 

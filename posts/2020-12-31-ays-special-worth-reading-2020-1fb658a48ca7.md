@@ -120,7 +120,7 @@ Again in the case of violations in the Aegean Sea border area, another independe
 The incidents have highlighted the role of both the Greek Coast Guard and of FRONTEX\. In a three\-part Special from AYS, the role and development of FRONTEX has been analysed and the growth of the organisation, both in terms of personnel and of operations, is shown in a timeline\.
 
 
-[![](https://miro.medium.com/max/960/1*NpAtaXvAK6g6EN6CXasJfg.jpeg)](https://medium.com/are-you-syrious/ays-special-frontex-and-human-rights-how-did-we-arrive-here-part-1-2004-2016-17cffb340c07)
+[![](../assets/1fb658a48ca7/NpAtaXvAK6g6EN6CXasJfg.jpeg)](https://medium.com/are-you-syrious/ays-special-frontex-and-human-rights-how-did-we-arrive-here-part-1-2004-2016-17cffb340c07)
 
 #### **The Bigger Picture**
 
@@ -209,7 +209,7 @@ A defining event during 2020 was undoubtedly the situation on Lesvos and the fir
 Following the catastrophe at Moria, AYS published a special written by Damla Ilbas & Simone Innico **_,_** analysing the history and background of the events on Lesvos and at Moria\.
 
 
-[![](https://miro.medium.com/max/1024/1*7ceIdO6vYZZxl56mgClCNQ.jpeg)](https://medium.com/are-you-syrious/ays-special-moria-was-not-built-in-a-day-9d64d83d4462)
+[![](../assets/1fb658a48ca7/7ceIdO6vYZZxl56mgClCNQ.jpeg)](https://medium.com/are-you-syrious/ays-special-moria-was-not-built-in-a-day-9d64d83d4462)
 
 
 The Greek photographer Angelos Tzortzinis followed and documented the fire and what followed was a poignant series of photos that later this year became the winner of UNICEF Photo of the Year Awards\.

@@ -104,19 +104,19 @@ The most important effects in case of a negative vote on this issue will be the 
 Make sure to read our Frontex series of Specials to get a full overview of the Agency’s history, impact and dubious work in the field, funded by your money, very likely\.
 
 
-[![](https://miro.medium.com/max/960/1*NpAtaXvAK6g6EN6CXasJfg.jpeg)](https://medium.com/are-you-syrious/ays-special-frontex-and-human-rights-how-did-we-arrive-here-part-1-2004-2016-17cffb340c07)
+[![](../assets/ee04967c13ac/NpAtaXvAK6g6EN6CXasJfg.jpeg)](https://medium.com/are-you-syrious/ays-special-frontex-and-human-rights-how-did-we-arrive-here-part-1-2004-2016-17cffb340c07)
 
 
 
-[![](https://miro.medium.com/max/1200/1*GkycHF7p3qJPnHFV_B6iBw.jpeg)](https://medium.com/are-you-syrious/ays-special-frontex-and-human-rights-how-did-we-arrive-here-part-2-2017-2019-83dbb24acb7f)
+[![](../assets/ee04967c13ac/GkycHF7p3qJPnHFV_B6iBw.jpeg)](https://medium.com/are-you-syrious/ays-special-frontex-and-human-rights-how-did-we-arrive-here-part-2-2017-2019-83dbb24acb7f)
 
 
 
-[![](https://miro.medium.com/max/1200/1*0m9vjV2EKqN-4YnRPogO8Q.jpeg)](https://medium.com/are-you-syrious/ays-special-frontex-and-human-rights-how-did-we-arrive-here-part-3-2020-present-706438d8e29)
+[![](../assets/ee04967c13ac/0m9vjV2EKqN-4YnRPogO8Q.jpeg)](https://medium.com/are-you-syrious/ays-special-frontex-and-human-rights-how-did-we-arrive-here-part-3-2020-present-706438d8e29)
 
 
 
-[![](https://miro.medium.com/max/750/1*oovy1wy73e0ZeLTfz5bMrQ.png)](https://medium.com/are-you-syrious/ays-special-frontex-and-human-rights-how-did-we-arrive-here-part-4-2021-january-update-9e55d65cc950)
+[![](../assets/ee04967c13ac/oovy1wy73e0ZeLTfz5bMrQ.png)](https://medium.com/are-you-syrious/ays-special-frontex-and-human-rights-how-did-we-arrive-here-part-4-2021-january-update-9e55d65cc950)
 
 
 **…and if you are from Switzerland, at least you get to decide on it\.**

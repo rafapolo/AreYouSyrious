@@ -105,7 +105,7 @@ Five days after the earthquake struck, they are still waiting for rescue teams, 
 Read the article from _InfoMigrants_ in full below:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/13cd1a28b061f36096c196300fe31328c410936d.jpg)](https://www.infomigrants.net/en/post/46718/lampedusa-autopsies-ordered-after-8-migrants-found-dead-on-boat?fbclid=IwAR2oj-aohSC5ShZr3Niz_Oj0BH4td3PMR7TF4SkZoXu3r55Qmlk2hVbFnG0)
+[![](../assets/7d1f5f2ee0a4/13cd1a28b061f36096c196300fe31328c410936d.jpg)](https://www.infomigrants.net/en/post/46718/lampedusa-autopsies-ordered-after-8-migrants-found-dead-on-boat?fbclid=IwAR2oj-aohSC5ShZr3Niz_Oj0BH4td3PMR7TF4SkZoXu3r55Qmlk2hVbFnG0)
 
 #### (Some) good news from Free Humanitarians
 
@@ -156,7 +156,7 @@ The Council of State — the highest administrative court in the country — has
 Now overturned in a final and binding capacity, 1,200 people will receive entry visas to the Netherlands to rejoin their loved ones.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/d89a64eecd7a66a44b7f49c8769065cc582e2fa2.jpg)](https://www.infomigrants.net/en/post/46723/netherlands-ends-ban-on-family-reunification?fbclid=IwAR2EoefUiDgMkmuQwa3-KeCnuQxsnZTc4jbSuqN6A-JE4KbGWAC2R4AM-g0)
+[![](../assets/7d1f5f2ee0a4/d89a64eecd7a66a44b7f49c8769065cc582e2fa2.jpg)](https://www.infomigrants.net/en/post/46723/netherlands-ends-ban-on-family-reunification?fbclid=IwAR2EoefUiDgMkmuQwa3-KeCnuQxsnZTc4jbSuqN6A-JE4KbGWAC2R4AM-g0)
 
 #### **UNITED KINGDOM**
 #### A ‘New Border Force’ on the horizon as the UK Home Office take over policing of the English channel from the military
@@ -235,7 +235,7 @@ A member of the NGO Care4Calais was part of the counter-protest, and wrote this 
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/c6f7aa4f42673edb23299f52fc3b13f30017726e.jpg)](https://www.infomigrants.net/en/post/46677/people-of-deutschland-everyday-racism-in-germany?fbclid=IwAR10fpM7jKdeYmN765Bbc5Rg-xnFExbG4qv1mcZRGjZizkdieyVZBN8ZgA4)
+[![](../assets/7d1f5f2ee0a4/c6f7aa4f42673edb23299f52fc3b13f30017726e.jpg)](https://www.infomigrants.net/en/post/46677/people-of-deutschland-everyday-racism-in-germany?fbclid=IwAR10fpM7jKdeYmN765Bbc5Rg-xnFExbG4qv1mcZRGjZizkdieyVZBN8ZgA4)
 
 
 

@@ -90,7 +90,7 @@ The NGO stated:
 #### WORTH READING
 - Protecting Rights at borders (PRAB) published its last report on rights violations at the EU borders in 2022 , where it is reconfirmed “the pattern of a systematic use of pushbacks.” Read the [report here](https://pro.drc.ngo/media/cxihgutp/prab-report-january-to-december-2022.pdf)
 - An article (in Italian) by Altreconomia analyses the report above. [Read it here](https://altreconomia.it/picchiati-puniti-e-respinti-alle-frontiere-delleuropa-il-nuovo-report-del-prab/)
-- Gaining informed consent, building trust and using appropriate language: those are some tips in order to create images and to photograph vulnerable people, who have been through the refugee experience. [Here is a guide](https://scottishrefugeecouncil.org.uk/wp-content/uploads/2023/01/best-practice-photographing-new-scots-2.png?fbclid=IwAR3UQwVX6WCBDOMzyh0Ib4j1fRbdbwPXj8NXAa524XKfe6E5bqms6Gy707s) by the Scottish Refugee Council, in alliance with the Open Aye Community Interest Company
+- Gaining informed consent, building trust and using appropriate language: those are some tips in order to create images and to photograph vulnerable people, who have been through the refugee experience. [Here is a guide](../assets/b846c56515a8/best-practice-photographing-new-scots-2.png) by the Scottish Refugee Council, in alliance with the Open Aye Community Interest Company
 - The [UK NGO ‘Refugee Women Connect’](https://www.refugeewomenconnect.org.uk/news/trying-something-new-in-2023-get-involved-with-refugee-women-connect?fbclid=IwAR2Qw0C2EgyaHLYQZI9hFMphNXQJaLJNJ1ve2AyLG4hXL9rl9TgwRAeQsig) is reaching out nationally for more volunteers to support their work:
 
 

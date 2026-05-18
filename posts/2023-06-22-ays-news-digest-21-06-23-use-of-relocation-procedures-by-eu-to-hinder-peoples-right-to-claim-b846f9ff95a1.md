@@ -41,7 +41,7 @@ Asylum seekers have the right to tell their story in the host country. The reloc
 Dunja Mijatović, the commissioner for human rights at the Strasbourg-based watchdog, the Council of Europe, commented on the increasing tolerance of human rights violations against refugees, asylum seekers and migrants across Europe, which has reached alarming levels.
 
 
-[![](https://static.euobserver.com/2016/01/e0b1a136ff822ecf14942b04ef1d7d72.jpg)](https://euobserver.com/migration/157164?fbclid=IwAR2hG2w04llpwMfAfU-OeuRQSK_uDromC_zKQprthhV2jJ40iLDiihfleI0)
+[![](../assets/b846f9ff95a1/e0b1a136ff822ecf14942b04ef1d7d72.jpg)](https://euobserver.com/migration/157164?fbclid=IwAR2hG2w04llpwMfAfU-OeuRQSK_uDromC_zKQprthhV2jJ40iLDiihfleI0)
 
 #### SEA/SAR
 ### Organisations ask for justice and investigation on the shipwreck of 14th of June
@@ -143,7 +143,7 @@ Although minors should be protected by the state, many underage children are sti
 
 
 
-[![](https://ihaverights.eu/wp-content/uploads/2023/06/Capture-1.png)](https://ihaverights.eu/they-are-killing-minds/)
+[![](../assets/b846f9ff95a1/Capture-1.png)](https://ihaverights.eu/they-are-killing-minds/)
 
 - Changes in the migration pattern along the so-called Balkan Route. A thread by Collective Aid summarized them:
 
@@ -163,13 +163,13 @@ Thread! 🧵
 
 
 
-[![](https://inkyfada.com/wp-content/uploads/2023/05/Cover-Migrants-Under-Drugs-DSK.jpg)](https://inkyfada.com/fr/2023/05/23/enquete-migrants-medicaments-expulsion-tunisie-italie/?fbclid=IwAR2DHSzevYFfV-lcBicHxdWorCooiZeD34vRTTZA_r5xsu8ZZiQs0uC6Ty4)
+[![](../assets/b846f9ff95a1/Cover-Migrants-Under-Drugs-DSK.jpg)](https://inkyfada.com/fr/2023/05/23/enquete-migrants-medicaments-expulsion-tunisie-italie/?fbclid=IwAR2DHSzevYFfV-lcBicHxdWorCooiZeD34vRTTZA_r5xsu8ZZiQs0uC6Ty4)
 
 - In this article there is a list of contact numbers and addresses that can be contacted about missing persons after the shipwreck of 14th of June:
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/08585c73dc6c459a9ee09e42b24a95bfc3d95c02.jpg)](https://www.infomigrants.net/en/post/49825/who-to-contact-about-people-missing-since-the-june-14-shipwreck-in-greece?fbclid=IwAR1oY4G_E_hqWTjF-Q_dX0h1qCm2iO6tmhZI8AzDrNzCcUIo1mEWKaxuw_k)
+[![](../assets/b846f9ff95a1/08585c73dc6c459a9ee09e42b24a95bfc3d95c02.jpg)](https://www.infomigrants.net/en/post/49825/who-to-contact-about-people-missing-since-the-june-14-shipwreck-in-greece?fbclid=IwAR1oY4G_E_hqWTjF-Q_dX0h1qCm2iO6tmhZI8AzDrNzCcUIo1mEWKaxuw_k)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) .**

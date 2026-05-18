@@ -159,7 +159,7 @@ Reacting to this influx, the prefecture reportedly moved around 100 minors to a 
 In a long read, the Refugee Info Bus has analysed the current situation in Calais since the eviction of the ‘Jungle’ in October 2016\. They conclude: “There is even less understanding of the current situation on the ground” which leads to certain problems\. Although there are some measures to improve the lives of people staying in France — and to encourage them not to try to make it to the UK, the group also sees “the deep mistrust of French government institutions and authorities that currently exists in the minds of asylum seekers will make it difficult to provide better access to the French asylum system\.”
 
 
-[![](https://miro.medium.com/max/800/1*Z75vvF7fKW2CaNamy3Fmfw.jpeg)](https://medium.com/the-warehouse-calais/focus-on-security-and-policing-in-calais-threatens-to-impede-measures-to-improve-humanitarian-a94441e7d800)
+[![](../assets/569c899f47a6/Z75vvF7fKW2CaNamy3Fmfw.jpeg)](https://medium.com/the-warehouse-calais/focus-on-security-and-policing-in-calais-threatens-to-impede-measures-to-improve-humanitarian-a94441e7d800)
 
 #### Volunteers needed in Paris
 

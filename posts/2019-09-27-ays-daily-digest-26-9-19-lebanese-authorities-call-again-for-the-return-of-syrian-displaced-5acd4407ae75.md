@@ -38,7 +38,7 @@ At the recent UN General Assembly, the Lebanese President called for the interna
 Lebanon, a country of four million people, currently hosts an estimated 1\.5 to two million refugees who have fled Syria since 2011\.
 
 
-[![](https://miro.medium.com/max/500/1*gIHjixNwg-XJtNvsQjzLRQ.jpeg)](https://medium.com/@AreYouSyrious/ays-daily-digest-09-01-2017-syrian-refugees-in-lebanon-are-more-poor-and-more-vulnerable-than-ever-d903f34c0d73)
+[![](../assets/5acd4407ae75/gIHjixNwg-XJtNvsQjzLRQ.jpeg)](https://medium.com/@AreYouSyrious/ays-daily-digest-09-01-2017-syrian-refugees-in-lebanon-are-more-poor-and-more-vulnerable-than-ever-d903f34c0d73)
 
 
 So as not to encourage Syrians to settle permanently, authorities allow only informal [camps for refugees](ays-special-lebanon-dreams-bigger-than-shatila-281df6272cbe) , in [precarious conditions](ays-special-precarious-living-conditions-for-millions-of-refugees-in-lebanon-81f8845b6a9a) , some almost becoming [towns for themselves](ays-special-pieces-of-the-everyday-life-in-beqaa-valley-2bad528e8522) , but often having the informal settlements torn down for dubious reasons\.

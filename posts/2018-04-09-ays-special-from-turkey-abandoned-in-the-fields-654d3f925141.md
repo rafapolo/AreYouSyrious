@@ -27,7 +27,7 @@ What sounds like the scene of a slum in a third world country is still reality f
 _>Read also the first report from Turkey:_
 
 
-[![](https://miro.medium.com/max/1200/1*ZRGO2e9rs3n2cOhypa_Jdg.jpeg)](https://medium.com/are-you-syrious/ays-special-turkey-the-only-hope-is-to-return-one-day-1df83003a89b)
+[![](../assets/654d3f925141/ZRGO2e9rs3n2cOhypa_Jdg.jpeg)](https://medium.com/are-you-syrious/ays-special-turkey-the-only-hope-is-to-return-one-day-1df83003a89b)
 
 
 Of course, some of them are able to afford a flat and have found better work\. But many, including some of the poorest and most vulnerable groups, are living in these field camps\. The camps are neither official nor completely makeshift, as the landowners take rent\. Often they are located near poor Turkish districts or villages\. Officials tolerate them because there is not enough space to accommodate all the people elsewhere\. They just do not want to have too much attention focused on them\.

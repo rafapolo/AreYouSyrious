@@ -63,7 +63,7 @@ Das wird am 23\. April beim Kassationsgericht in Rom entschieden\. Dieses Gerich
 Wir sehen das als ein durchaus positives Signal\. Allerdings bleiben die Anklagen gegen den Kapitän, den Head of Mission und Head of Operations weiterhin bestehen\. Da gilt es abzuwarten, wie sich der Fall weiterentwickelt\.
 
 
-[![](https://miro.medium.com/max/1119/1*imJ4HvbIPXrqA1QChgfM1g.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-18-4-18-give-us-the-migrants-or-we-will-kill-you-the-front-lines-of-4a84d6762437)
+[![](../assets/80850d927a3c/imJ4HvbIPXrqA1QChgfM1g.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-18-4-18-give-us-the-migrants-or-we-will-kill-you-the-front-lines-of-4a84d6762437)
 
 
 **Wäre im Falle einer Urteilsaufhebung geplant, sofort die nächste Mission in die Wege zu leiten?**

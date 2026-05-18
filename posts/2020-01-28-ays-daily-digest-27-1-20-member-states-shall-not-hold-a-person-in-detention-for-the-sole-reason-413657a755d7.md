@@ -37,7 +37,7 @@ The new stricter law gives many options for extending detention\. Still, the rej
 
 
 
-[![](https://miro.medium.com/max/529/1*vh9mzJRRCdXwCvfJstAW4w.jpeg)](https://medium.com/are-you-syrious/ays-special-chios-a-baby-was-born-in-vial-surrounded-by-stray-dogs-and-rubbish-flying-around-cf4d81f15f73)
+[![](../assets/413657a755d7/vh9mzJRRCdXwCvfJstAW4w.jpeg)](https://medium.com/are-you-syrious/ays-special-chios-a-baby-was-born-in-vial-surrounded-by-stray-dogs-and-rubbish-flying-around-cf4d81f15f73)
 
 
 As the laws change, the fights and protests continue and dissatisfaction grows\. One of the increasingly popular moves is to hit the NGO and activist sector\. 

@@ -231,7 +231,7 @@ This display of determination came without warning but as no surprise, since the
 Please, take time to read our latest [**AYS Special: Italian Court Stops Deportation to Slovenia, Meanwhile Pushbacks Continue**](https://medium.com/are-you-syrious/ays-special-italian-court-stops-deportation-to-slovenia-meanwhile-pushbacks-continue-a0370c30cd02?source=collection_home---7------0-----------------------) , written by our friends from Slovenia, Info Kolpa activists, explaining how Italy has become the latest link in chain push backs where literally thousands of people, often violently, end up in the overcrowded camps of Bosnia and Herzegovina, and Serbia:
 
 
-[![](https://miro.medium.com/max/610/1*_qMkf_tV4sV1qkC4kn6nuA.jpeg)](https://medium.com/are-you-syrious/ays-special-italian-court-stops-deportation-to-slovenia-meanwhile-pushbacks-continue-a0370c30cd02)
+[![](../assets/a24cc60cbff0/_qMkf_tV4sV1qkC4kn6nuA.jpeg)](https://medium.com/are-you-syrious/ays-special-italian-court-stops-deportation-to-slovenia-meanwhile-pushbacks-continue-a0370c30cd02)
 
 #### FRANCE
 ### Paris

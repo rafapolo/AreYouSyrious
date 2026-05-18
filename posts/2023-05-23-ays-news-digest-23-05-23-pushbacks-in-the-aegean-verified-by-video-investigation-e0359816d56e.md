@@ -165,38 +165,38 @@ Sign the petition to the EU Commission now:
 **Since January, over 900 people have lost their lives in the Central Mediterranean.**
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/ef774068c12cc7e689be79f6f8d5ee3ab8a0aaf8.jpg)](https://www.infomigrants.net/en/post/49039/ngos-in-italy-criticize-european-states-over-migrant-deaths-at-sea?fbclid=IwAR2ejwaB9E_HKyQiM8wAkKnHpQYIGB-PlKoAIPU_GKmbqZ6YwFwX0Ec_yLc)
+[![](../assets/e0359816d56e/ef774068c12cc7e689be79f6f8d5ee3ab8a0aaf8.jpg)](https://www.infomigrants.net/en/post/49039/ngos-in-italy-criticize-european-states-over-migrant-deaths-at-sea?fbclid=IwAR2ejwaB9E_HKyQiM8wAkKnHpQYIGB-PlKoAIPU_GKmbqZ6YwFwX0Ec_yLc)
 
 #### **WORTH READING**
 - Turkish Elections — _Info Migrants_ article on Kilicdaroglu’s promises:
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/e245909c3e4284b3c0912b5bf788abca59b18c06.jpg)](https://www.infomigrants.net/en/post/49041/turkeys-opposition-leader-vows-to-get-rid-of-refugees--but-can-he?fbclid=IwAR3lhr3ASKfl3_2LB5df95dqXWwCYOrRHk95NcPP_1ybWSG7jfKkxDMlYHE)
+[![](../assets/e0359816d56e/e245909c3e4284b3c0912b5bf788abca59b18c06.jpg)](https://www.infomigrants.net/en/post/49041/turkeys-opposition-leader-vows-to-get-rid-of-refugees--but-can-he?fbclid=IwAR3lhr3ASKfl3_2LB5df95dqXWwCYOrRHk95NcPP_1ybWSG7jfKkxDMlYHE)
 
 - “Modern Slavery in the UK: How foreign domestic workers are exploited”
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/e8bc70f9b6a732e3a62048f32c298758bc6db63e.jpg)](https://www.infomigrants.net/en/post/48992/modern-slavery-in-the-uk-how-foreign-domestic-workers-are-exploited?fbclid=IwAR2UAD9TYOeoPh5AUvzNnNCdDqEGDINrrT6avZm88JA7w5XWOQgz4n91HKM)
+[![](../assets/e0359816d56e/e8bc70f9b6a732e3a62048f32c298758bc6db63e.jpg)](https://www.infomigrants.net/en/post/48992/modern-slavery-in-the-uk-how-foreign-domestic-workers-are-exploited?fbclid=IwAR2UAD9TYOeoPh5AUvzNnNCdDqEGDINrrT6avZm88JA7w5XWOQgz4n91HKM)
 
 - An article from Statewatch about the EU’s Asylum Procedures and Management Systems. The article tracks “compromise texts”, member state comments about finding a “balance between solidarity and responsibility”.
 
 
 
-[![](https://www.statewatch.org/media/3895/eu-council-justus-lipsius.jpg)](https://www.statewatch.org/news/2023/may/eu-tracking-the-pact-compromise-texts-member-state-comments-balance-between-solidarity-and-responsibility/?fbclid=IwAR2HEgg4LQY57Uh_qC4zu6pLfYTQvKgHoyieStF3exiVwWGF3mgWtKdQWE0)
+[![](../assets/e0359816d56e/eu-council-justus-lipsius.jpg)](https://www.statewatch.org/news/2023/may/eu-tracking-the-pact-compromise-texts-member-state-comments-balance-between-solidarity-and-responsibility/?fbclid=IwAR2HEgg4LQY57Uh_qC4zu6pLfYTQvKgHoyieStF3exiVwWGF3mgWtKdQWE0)
 
 - Tougher migration laws in the EU — an article about how Italy, Greece, Czech Republic and the UK are all aligning together in a harder border stance:
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/1ecbe2b7cfe92f646e85a90b9298ac0190759ca8.jpeg)](https://www.infomigrants.net/en/post/48947/italy-greece-czech-republic-and-uk-aligned-on-tougher-migration-laws?fbclid=IwAR3XDljHvbu5fg1fBnn-Bf93NRJXRO8a1pmXUTMAf-GTTAFjO-ELmfAk6ZY)
+[![](../assets/e0359816d56e/1ecbe2b7cfe92f646e85a90b9298ac0190759ca8.jpeg)](https://www.infomigrants.net/en/post/48947/italy-greece-czech-republic-and-uk-aligned-on-tougher-migration-laws?fbclid=IwAR3XDljHvbu5fg1fBnn-Bf93NRJXRO8a1pmXUTMAf-GTTAFjO-ELmfAk6ZY)
 
 - Fragdenstaat — an article about the International Centre for Migration Policy Development (ICMPD), an important player in EU migration policy.
 
 
 
-[![](https://media.frag-den-staat.de/files/media/thumbnails/75/f0/75f00ee3-e134-430a-8de6-200226ca9246/190523_icmpd_migration_manager_fin.jpg__1200x630_q85_crop_replace_alpha-%23ffffff_subject_location-513%2C378_subsampling-2.jpg)](https://fragdenstaat.de/en/blog/2023/05/19/the-migration-managers/)
+[![](../assets/e0359816d56e/190523_icmpd_migration_manager_fin.jpg__1200x630_q85_crop_replace_alpha-%23ffffff_subject_location-513%2C378_subsampling-2.jpg)](https://fragdenstaat.de/en/blog/2023/05/19/the-migration-managers/)
 
 
 Some important conclusions:

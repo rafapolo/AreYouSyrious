@@ -45,7 +45,7 @@ While the UN “raises alarm” over the severity of the situation, not much has
 Don’t miss follow up stories published in our Specials series, among which is the latest report on Libya:
 
 
-[![](https://miro.medium.com/max/1200/1*Rw11oYHIfPJGB-G3g-9vsw.jpeg)](https://medium.com/are-you-syrious/special-from-libya-protests-in-tripoli-against-a-system-made-to-cause-suffering-77a6ce5ffc6)
+[![](../assets/b71fd27ec76f/Rw11oYHIfPJGB-G3g-9vsw.jpeg)](https://medium.com/are-you-syrious/special-from-libya-protests-in-tripoli-against-a-system-made-to-cause-suffering-77a6ce5ffc6)
 
 #### GREECE
 ### Will the health care services continue and what is the future of Philos II ?

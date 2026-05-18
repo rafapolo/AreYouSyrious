@@ -30,7 +30,7 @@ TURKEY
 
 
 
-[![](https://miro.medium.com/max/960/1*aDAzITWbrJ6FL3EG55KSTg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-turkey-increasing-hate-speech-towards-refugees-5793753d9c8)
+[![](../assets/69911643f2a4/aDAzITWbrJ6FL3EG55KSTg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-turkey-increasing-hate-speech-towards-refugees-5793753d9c8)
 
 
 LIBYA
@@ -44,7 +44,7 @@ LIBYA
 
 
 
-[![](https://miro.medium.com/max/1200/1*Rw11oYHIfPJGB-G3g-9vsw.jpeg)](https://medium.com/are-you-syrious/special-from-libya-protests-in-tripoli-against-a-system-made-to-cause-suffering-77a6ce5ffc6)
+[![](../assets/69911643f2a4/Rw11oYHIfPJGB-G3g-9vsw.jpeg)](https://medium.com/are-you-syrious/special-from-libya-protests-in-tripoli-against-a-system-made-to-cause-suffering-77a6ce5ffc6)
 
 
 SEA
@@ -63,7 +63,7 @@ SEA
 
 
 
-[![](https://miro.medium.com/max/1181/1*S_1yrLvz_fnz0svF5EKhJw.jpeg)](https://medium.com/are-you-syrious/ays-international-womens-day-special-who-is-louise-michel-c156eb428c75)
+[![](../assets/69911643f2a4/S_1yrLvz_fnz0svF5EKhJw.jpeg)](https://medium.com/are-you-syrious/ays-international-womens-day-special-who-is-louise-michel-c156eb428c75)
 
 
 GREECE
@@ -77,7 +77,7 @@ GREECE
 
 
 
-[![](https://miro.medium.com/max/1200/1*F5ja0npFAUfTu_-vRstalA.jpeg)](https://medium.com/are-you-syrious/ays-special-from-lesvos-dont-film-me-chopping-onions-d910ef05cc49)
+[![](../assets/69911643f2a4/F5ja0npFAUfTu_-vRstalA.jpeg)](https://medium.com/are-you-syrious/ays-special-from-lesvos-dont-film-me-chopping-onions-d910ef05cc49)
 
 #### New Prison Camps in Greece \(September\)
 
@@ -89,7 +89,7 @@ GREECE
 
 
 
-[![](https://miro.medium.com/max/1200/1*58o3sWOlKqSv56rMLZQxkg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-samos-a-new-hotspot-to-keep-refugees-out-of-sight-out-of-mind-bf2013202840)
+[![](../assets/69911643f2a4/58o3sWOlKqSv56rMLZQxkg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-samos-a-new-hotspot-to-keep-refugees-out-of-sight-out-of-mind-bf2013202840)
 
 #### Cases of Criminalisation \(October\)
 
@@ -101,7 +101,7 @@ GREECE
 
 
 
-[![](https://miro.medium.com/max/720/1*vD2Xl1ooUJIe1l4Y45zzZQ.jpeg)](https://medium.com/are-you-syrious/ays-special-from-greece-where-saving-lives-is-illegal-an-interview-with-nassos-karakitsos-c128e34ab75d)
+[![](../assets/69911643f2a4/vD2Xl1ooUJIe1l4Y45zzZQ.jpeg)](https://medium.com/are-you-syrious/ays-special-from-greece-where-saving-lives-is-illegal-an-interview-with-nassos-karakitsos-c128e34ab75d)
 
 
 BELARUS\-EU BORDER
@@ -115,7 +115,7 @@ BELARUS\-EU BORDER
 
 
 
-[![](https://miro.medium.com/max/960/1*FFPvd-51o7uVzwuek92Mgw.jpeg)](https://medium.com/are-you-syrious/ays-special-from-poland-belarus-lithuania-a-border-crisis-hell-7f7019c3f26e)
+[![](../assets/69911643f2a4/FFPvd-51o7uVzwuek92Mgw.jpeg)](https://medium.com/are-you-syrious/ays-special-from-poland-belarus-lithuania-a-border-crisis-hell-7f7019c3f26e)
 
 
 SPAIN
@@ -129,7 +129,7 @@ SPAIN
 
 
 
-[![](https://miro.medium.com/max/1200/1*W_xT85cisgfbFFouI3Aakg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-the-canaries-opening-borders-a-week-of-protest-c9d8d5d530b7)
+[![](../assets/69911643f2a4/W_xT85cisgfbFFouI3Aakg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-the-canaries-opening-borders-a-week-of-protest-c9d8d5d530b7)
 
 
 BOSNIA AND HERZEGOVINA
@@ -143,7 +143,7 @@ BOSNIA AND HERZEGOVINA
 
 
 
-[![](https://miro.medium.com/max/800/1*MyObSx6hyc6P8TStAC_S-Q.jpeg)](https://medium.com/are-you-syrious/ays-special-from-bihac-a-handshake-a-hug-and-they-are-gone-431cfc08a29f)
+[![](../assets/69911643f2a4/MyObSx6hyc6P8TStAC_S-Q.jpeg)](https://medium.com/are-you-syrious/ays-special-from-bihac-a-handshake-a-hug-and-they-are-gone-431cfc08a29f)
 
 
 FRENCH\-ITALIAN BORDER
@@ -157,7 +157,7 @@ FRENCH\-ITALIAN BORDER
 
 
 
-[![](https://miro.medium.com/max/466/1*ANqqxk7haA6cGM0rCCKe5Q.png)](https://medium.com/are-you-syrious/ays-special-from-brian%C3%A7on-solidarity-at-the-border-557d10e21c07)
+[![](../assets/69911643f2a4/ANqqxk7haA6cGM0rCCKe5Q.png)](https://medium.com/are-you-syrious/ays-special-from-brian%C3%A7on-solidarity-at-the-border-557d10e21c07)
 
 
 DENMARK
@@ -171,7 +171,7 @@ DENMARK
 
 
 
-[![](https://miro.medium.com/max/770/1*FgMzsCfELI-YsapSowdKAw.jpeg)](https://medium.com/are-you-syrious/ays-special-from-denmark-women-without-rights-d4aa8f782789)
+[![](../assets/69911643f2a4/FgMzsCfELI-YsapSowdKAw.jpeg)](https://medium.com/are-you-syrious/ays-special-from-denmark-women-without-rights-d4aa8f782789)
 
 
 THE UK
@@ -185,7 +185,7 @@ THE UK
 
 
 
-[![](https://miro.medium.com/max/1200/1*68FlfWyoVvuC78aAQELxaA.jpeg)](https://medium.com/are-you-syrious/ays-special-from-the-uk-the-british-nationality-and-borders-bill-4c2e8d637451)
+[![](../assets/69911643f2a4/68FlfWyoVvuC78aAQELxaA.jpeg)](https://medium.com/are-you-syrious/ays-special-from-the-uk-the-british-nationality-and-borders-bill-4c2e8d637451)
 
 
 **If you wish to contribute, either by writing a report or a story, or by joining the info gathering team, please let us know\.**

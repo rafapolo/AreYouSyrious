@@ -111,7 +111,7 @@ On Wednesday, Greece made a new request to the EU Commission and Frontex for the
 Don’t miss out on our latest Frontex AYS Special:
 
 
-[![](https://miro.medium.com/max/1080/1*A-nVyqGWPs6irEMNVfbirA.jpeg)](https://medium.com/are-you-syrious/ays-special-the-first-frontex-fundamental-rights-report-only-10-years-late-e96ac201c64d)
+[![](../assets/3deaa77162ef/A-nVyqGWPs6irEMNVfbirA.jpeg)](https://medium.com/are-you-syrious/ays-special-the-first-frontex-fundamental-rights-report-only-10-years-late-e96ac201c64d)
 
 ### A take on the most relevant legal concerns when it comes to asylum seekers arriving in Greece
 

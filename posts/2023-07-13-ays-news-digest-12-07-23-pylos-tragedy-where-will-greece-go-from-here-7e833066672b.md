@@ -143,7 +143,7 @@ Sign Liberty’s petition to [Stop the Bill](https://action.libertyhumanrights.o
 This news comes as Immigration detainees are refused the right to face-to-face legal advice in British detention:
 
 
-[![](https://freemovement.org.uk/wp-content/uploads/2022/08/IMG_20171205_104425-e1512504403746-edited.jpg)](https://freemovement.org.uk/no-right-to-face-to-face-legal-advice-in-detention/?fbclid=IwAR2xDKwDhSgQBhkXm0TlDTS3MOr14WZfURQEsTUK2RltqmacKrTvO5CfSUg)
+[![](../assets/7e833066672b/IMG_20171205_104425-e1512504403746-edited.jpg)](https://freemovement.org.uk/no-right-to-face-to-face-legal-advice-in-detention/?fbclid=IwAR2xDKwDhSgQBhkXm0TlDTS3MOr14WZfURQEsTUK2RltqmacKrTvO5CfSUg)
 
 #### WORTH READING
 - MUST READ! — The reality of seeking asylum in the UK, in 2023?
@@ -152,13 +152,13 @@ This news comes as Immigration detainees are refused the right to face-to-face l
 **“There is no entry clearance visa these people could have applied for, from outside the UK, in order to enter the country and claim asylum”**
 
 
-[![](https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/2026/04/Asylum_seekers_in_Dover-1776259737012.jpg)](https://www.opendemocracy.net/en/asylum-seekers-criminalisation-small-boats-section-24/?fbclid=IwAR2DEoOfCLYpbXiXM9dUU3yq7TQ7-jQVN22kXTAhKE7r5q2V13iDVP41BQE)
+[![](../assets/7e833066672b/Asylum_seekers_in_Dover-1776259737012.jpg)](https://www.opendemocracy.net/en/asylum-seekers-criminalisation-small-boats-section-24/?fbclid=IwAR2DEoOfCLYpbXiXM9dUU3yq7TQ7-jQVN22kXTAhKE7r5q2V13iDVP41BQE)
 
 - Research done by Landworkers Alliance looking at migrant farm workers experiences of exploitation and destitution.
 
 
 
-[![](https://landworkersalliance.org.uk/wp-content/uploads/2018/10/LWA-Debt-Migration-and-Exploitation-2023.jpg)](https://landworkersalliance.org.uk/lwa-report-digs-into-exploitation-of-migrant-workers-in-uk-horticulture/?fbclid=IwAR1RK8YYry0p6Sis5oFfaj6YEtUjufknqJ0Vz4YDywrR3TKHjx_VJOZLC3o)
+[![](../assets/7e833066672b/LWA-Debt-Migration-and-Exploitation-2023.jpg)](https://landworkersalliance.org.uk/lwa-report-digs-into-exploitation-of-migrant-workers-in-uk-horticulture/?fbclid=IwAR1RK8YYry0p6Sis5oFfaj6YEtUjufknqJ0Vz4YDywrR3TKHjx_VJOZLC3o)
 
 
 

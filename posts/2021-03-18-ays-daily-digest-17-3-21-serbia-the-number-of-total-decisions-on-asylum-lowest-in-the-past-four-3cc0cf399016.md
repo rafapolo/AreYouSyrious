@@ -147,7 +147,7 @@ Most immigration detainees across the UK are now being held in prisons, where, d
 Read our Special on the current state of things in the UK:
 
 
-[![](https://miro.medium.com/max/900/1*K5Fks1amcDrprvjoYt7iOg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-the-uk-precarity-deportations-and-detention-3fc6e45330e5)
+[![](../assets/3cc0cf399016/K5Fks1amcDrprvjoYt7iOg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-the-uk-precarity-deportations-and-detention-3fc6e45330e5)
 
 #### WORTH READING
 

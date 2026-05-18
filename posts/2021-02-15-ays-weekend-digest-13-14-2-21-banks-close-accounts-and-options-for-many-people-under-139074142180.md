@@ -89,7 +89,7 @@ In the past six months, out of more than 207,000 applications submitted, only 2 
 Don’t miss on reading our **AYS Special from Italy: 2020, not only Covid\-19\. Deportation, invisibility, detention and lack of reception\. PART I\!** In collaboration, written by our friends from Lasciateci entrare:
 
 
-[![](https://miro.medium.com/max/445/0*4fAm7kStQo7RXomZ.jpeg)](https://medium.com/are-you-syrious/ays-special-from-italy-2020-not-only-covid-19-deportation-invisibility-detention-part-i-e6b199a72f36)
+[![](../assets/139074142180/4fAm7kStQo7RXomZ.jpeg)](https://medium.com/are-you-syrious/ays-special-from-italy-2020-not-only-covid-19-deportation-invisibility-detention-part-i-e6b199a72f36)
 
 #### FRANCE
 

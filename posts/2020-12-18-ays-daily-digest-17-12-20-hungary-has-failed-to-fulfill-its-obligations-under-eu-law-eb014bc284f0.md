@@ -173,7 +173,7 @@ Out of the 1553 people Germany promised to take in after the fire of Moria, only
 As has been widely reported lately, Napier barracks in Kent and Penally barracks in Pembrokeshire, which hold more than 600 people, were handed over to the Home Office in September to be used as accommodation for asylum seekers\.
 
 
-[![](https://miro.medium.com/max/1017/1*F0OZeCmKQvbpF0JSkXxWpw.jpeg)](https://medium.com/are-you-syrious/ays-special-a-voice-from-inside-penally-refugee-camp-57f8ea247ab7)
+[![](../assets/eb014bc284f0/F0OZeCmKQvbpF0JSkXxWpw.jpeg)](https://medium.com/are-you-syrious/ays-special-a-voice-from-inside-penally-refugee-camp-57f8ea247ab7)
 
 
 Now, more than 60 organisations, led by the Association of Visitors to Immigration Detainees, highlight parallels between the barracks and the UK’s system of indefinite immigration detention, calling instead for community\-based alternatives\.

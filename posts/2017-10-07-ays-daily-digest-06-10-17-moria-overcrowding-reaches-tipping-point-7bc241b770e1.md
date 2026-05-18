@@ -145,7 +145,7 @@ Right to Remain and Belfast Unemployment Resource are working together to give a
 The Refugee Council has published a handy guide to help people without a roof over their heads to apply for shelter to their local authorities\.
 
 
-[![](https://www.refugeecouncil.org.uk/wp-content/uploads/2019/03/Project-asylum-destitution-20190401.jpg)](https://www.refugeecouncil.org.uk/homelessnessapplications)
+[![](../assets/7bc241b770e1/Project-asylum-destitution-20190401.jpg)](https://www.refugeecouncil.org.uk/homelessnessapplications)
 
 #### Italy
 ### Report highlights the vast number of areas outside of the formal reception system

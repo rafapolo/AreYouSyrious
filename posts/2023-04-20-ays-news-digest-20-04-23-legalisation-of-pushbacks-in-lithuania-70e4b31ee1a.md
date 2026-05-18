@@ -83,7 +83,7 @@ The lawsuit come after more than two years without effective investigation into 
 _“The European Court of Human Rights (ECHR) has recently condemned Croatia’s failure to conduce effective investigations into crimes committed against migrants and refugees.”_ — [ECCHR](https://www.ecchr.eu/en/press-release/refugees-file-lawsuit-to-croatias-constitutional-court/?fbclid=IwAR3SbIcUoLoHde-KuQ7qj8Tqngmlx1tTG5Sp7OCcSvKzBv-9P-lZJobNZyo)
 
 
-[![](https://www.ecchr.eu/fileadmin/_processed_/4/d/csm_RechtUnrecht_EN_FB_fa9b586343.png)](https://www.ecchr.eu/en/press-release/refugees-file-lawsuit-to-croatias-constitutional-court/?fbclid=IwAR3SbIcUoLoHde-KuQ7qj8Tqngmlx1tTG5Sp7OCcSvKzBv-9P-lZJobNZyo)
+[![](../assets/70e4b31ee1a/csm_RechtUnrecht_EN_FB_fa9b586343.png)](https://www.ecchr.eu/en/press-release/refugees-file-lawsuit-to-croatias-constitutional-court/?fbclid=IwAR3SbIcUoLoHde-KuQ7qj8Tqngmlx1tTG5Sp7OCcSvKzBv-9P-lZJobNZyo)
 
 #### GREECE
 #### A report on living irregularly in Greece
@@ -108,7 +108,7 @@ See the full thread [here](https://twitter.com/rspaegean/status/1648620226139881
 To read a full report compiled by RSA and PRO ASYL, see here:
 
 
-[![](https://rsaegean.org/wp-content/uploads/2023/03/2023-03_RSA_BIP-en.jpg)](https://rsaegean.org/en/report-bip-2023/)
+[![](../assets/70e4b31ee1a/2023-03_RSA_BIP-en.jpg)](https://rsaegean.org/en/report-bip-2023/)
 
 #### ITALY
 #### Special protections for asylum seekers to be cancelled?
@@ -122,7 +122,7 @@ Italy’s right-wing government has introduced over 300 proposals (to be debated
 More here from _Info Migrants_ :
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/9753820d4a94421f433cf149aa63d0833df53caa.jpg)](https://www.infomigrants.net/en/post/48320/italy-divisions-and-protests-grow-over-proposed-immigration-law?fbclid=IwAR2qDKY7vDOenFOvZ2eHG3uTy9KXkMgT9O1iFLGF6ZZwfQLAn23z-n3Wlds)
+[![](../assets/70e4b31ee1a/9753820d4a94421f433cf149aa63d0833df53caa.jpg)](https://www.infomigrants.net/en/post/48320/italy-divisions-and-protests-grow-over-proposed-immigration-law?fbclid=IwAR2qDKY7vDOenFOvZ2eHG3uTy9KXkMgT9O1iFLGF6ZZwfQLAn23z-n3Wlds)
 
 #### GERMANY
 #### Over 80,000 asylum applications in Germany so far this year
@@ -130,7 +130,7 @@ More here from _Info Migrants_ :
 This compares to 44,908 applications between January and April in 2022, marking an increase of 80.3%. The majority of applications came from Syrian, Afghan and Turkish people.
 
 
-[![](https://schengenvisainfo.com/news/wp-content/uploads/2022/01/Germany-Migration-Office.jpg)](https://www.schengenvisainfo.com/news/germany-has-recorded-over-80000-asylum-applications-so-far-in-2023/?fbclid=IwAR00MWC9QGRqwxI0UHCLgOSDT83sfCVSd_1m1NUtpwGnAz2t574BPNC49_s)
+[![](../assets/70e4b31ee1a/Germany-Migration-Office.jpg)](https://www.schengenvisainfo.com/news/germany-has-recorded-over-80000-asylum-applications-so-far-in-2023/?fbclid=IwAR00MWC9QGRqwxI0UHCLgOSDT83sfCVSd_1m1NUtpwGnAz2t574BPNC49_s)
 
 #### FRANCE
 #### Further protests by unaccommodated people on the move in Paris
@@ -217,7 +217,7 @@ It is currently unclear whether a rescue conducted by Humanity 1 last night, sav
 An investigation into an informal banking system used by people on the move — an ancient money transfer system known as _hawala,_ based on interpersonal trust. The investigation examines the business mechanisms of the criminal networks behind irregular migration.
 
 
-[![](https://wearesolomon.com/wp-content/uploads/2023/04/Migrant-Association-03.jpg)](https://wearesolomon.com/mag/focus-area/migration/hawala-the-bankers-of-irregular-migration/?fbclid=IwAR1mJ9HE7rHOnm1o1eUmh9ooTHaJI3cwZtk9WIgF4GtWnELy6BpHbBzefbs)
+[![](../assets/70e4b31ee1a/Migrant-Association-03.jpg)](https://wearesolomon.com/mag/focus-area/migration/hawala-the-bankers-of-irregular-migration/?fbclid=IwAR1mJ9HE7rHOnm1o1eUmh9ooTHaJI3cwZtk9WIgF4GtWnELy6BpHbBzefbs)
 
 
 

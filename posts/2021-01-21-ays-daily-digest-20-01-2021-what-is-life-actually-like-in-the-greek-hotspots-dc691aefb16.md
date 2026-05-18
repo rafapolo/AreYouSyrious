@@ -333,7 +333,7 @@ A new book on the EU migration agencies, written by David Fernández\-Rojo has 
 **David Fernández\-Rojo: EU Migration Agencies\. The Operation and Cooperation of FRONTEX, EASO and EUROPOL**
 
 
-[![](https://www.e-elgar.com/shop/media/catalog/product/9/7/9781839109331.jpg)](https://www.e-elgar.com/shop/gbp/catalog/product/view/id/16839/)
+[![](../assets/dc691aefb16/9781839109331.jpg)](https://www.e-elgar.com/shop/gbp/catalog/product/view/id/16839/)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

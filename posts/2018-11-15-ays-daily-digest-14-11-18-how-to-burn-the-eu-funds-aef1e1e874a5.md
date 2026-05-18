@@ -45,7 +45,7 @@ This shows that this is not only about how much money is being sent somewhere �
 Back in February of this year, DG Echo told AYS in a statement about the funds used in Turkey: _“Each project is carefully monitored by the staff in the EU Delegation to Turkey/ECHO local office as well as by staff at European Commission Headquarters, through regular implementation meetings with the contractor and on\-the spot monitoring\. Projects with NGOs are grants given to implement specific actions\. Payments under grants are made based on reported incurred costs in accordance with the general conditions of the individual grant contract\. These costs are verified before further pre\-financing or final payment takes place\. Should any irregularities be detected or costs declared ineligible, the European Commission can recover the funds or impose penalties\.”_
 
 
-[![](https://miro.medium.com/max/1137/1*VILMsnzbZ4_0f75C9dbIog.jpeg)](https://medium.com/are-you-syrious/ays-special-about-turkey-between-caution-and-intransparency-f8bb8cb0dd)
+[![](../assets/aef1e1e874a5/VILMsnzbZ4_0f75C9dbIog.jpeg)](https://medium.com/are-you-syrious/ays-special-about-turkey-between-caution-and-intransparency-f8bb8cb0dd)
 
 ### Syria
 

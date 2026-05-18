@@ -150,7 +150,7 @@ _Info Migrants_ reports that Austria — citing the ‘success’ of its nationa
 Meanwhile, Germany has reported an [**80% increase in asylum applications.**](https://www.infomigrants.net/en/post/48160/germany-reports-80-increase-in-asylum-applications?fbclid=IwAR3RfRrU9X0ygiBmCyIgyme9lecSphd79Pcea9x9t1KWBidWLN90p9gq3Og)
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/280bc41932a8777f514f2f83d003c8e4d4d31298.jpg)](https://www.infomigrants.net/en/post/48116/austria-to-extend-hungary-slovenia-border-controls?fbclid=IwAR3bhKXzHFqoqzSzj7NyMxDJxy_JONzOVTy_4uVNf-VL_dbW3Erupr7nUkQ)
+[![](../assets/bb50e32b0a57/280bc41932a8777f514f2f83d003c8e4d4d31298.jpg)](https://www.infomigrants.net/en/post/48116/austria-to-extend-hungary-slovenia-border-controls?fbclid=IwAR3bhKXzHFqoqzSzj7NyMxDJxy_JONzOVTy_4uVNf-VL_dbW3Erupr7nUkQ)
 
 #### FRANCE
 #### “We used to look for shelter, now we look for places to hide” — Police in Paris isolating minors, putting them at further risk
@@ -262,13 +262,13 @@ Crucially, **the number of successful applications for asylum to Rwanda is excee
 
 
 
-[![](https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/28132933/border-police.png)](https://www.biometricupdate.com/202304/civil-society-alarmed-by-migrant-biometrics-and-surveillance-in-eu-americas?fbclid=IwAR2HcPmwvclaZ2jDefVyjVAaj2KcC9K1defebgt3dZd14sxaWPwFprOhLdA)
+[![](../assets/bb50e32b0a57/border-police.png)](https://www.biometricupdate.com/202304/civil-society-alarmed-by-migrant-biometrics-and-surveillance-in-eu-americas?fbclid=IwAR2HcPmwvclaZ2jDefVyjVAaj2KcC9K1defebgt3dZd14sxaWPwFprOhLdA)
 
 - [“Humanitarian Action Under Attack” in Greece:](https://lens.civicus.org/greece-humanitarian-action-under-attack/?fbclid=IwAR0zUZfYR1m_5klCcLScPvm9msoYt0zXnZg8ht_WHUvnijUZ-mEUgFxVjAY)
 
 
 
-[![](https://lens.civicus.org/wp-content/uploads/2023/03/rtxk1otv.jpg)](https://lens.civicus.org/greece-humanitarian-action-under-attack/?fbclid=IwAR0zUZfYR1m_5klCcLScPvm9msoYt0zXnZg8ht_WHUvnijUZ-mEUgFxVjAY)
+[![](../assets/bb50e32b0a57/rtxk1otv.jpg)](https://lens.civicus.org/greece-humanitarian-action-under-attack/?fbclid=IwAR0zUZfYR1m_5klCcLScPvm9msoYt0zXnZg8ht_WHUvnijUZ-mEUgFxVjAY)
 
 
 

@@ -103,7 +103,7 @@ SOS Mediterrain
 
 
 
-[![](https://miro.medium.com/max/1200/1*DtBvDJg2ycCo9A6c5VgL2w.jpeg)](https://medium.com/p/f10d33b84e4d)
+[![](../assets/61a2a1d59f6f/DtBvDJg2ycCo9A6c5VgL2w.jpeg)](https://medium.com/p/f10d33b84e4d)
 
 ### Journalists banned from Idomeni\.
 

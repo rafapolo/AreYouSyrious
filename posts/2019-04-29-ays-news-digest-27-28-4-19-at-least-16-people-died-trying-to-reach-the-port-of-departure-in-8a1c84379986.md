@@ -65,7 +65,7 @@ During Sunday, there have been several groups with dozens of people arriving\. T
 The local people coordinating everything have now arranged to rent a floor of one of the houses in order to have a place where people can deliver food donations and where they would take turns in preparing meals\.
 
 
-[![](https://miro.medium.com/max/1161/1*7BQoIdYvoOxUmfWv9hiqmg.jpeg)](https://medium.com/@izbjeglicke.price/kratki-predah-u-gradu-ljubavi-8ddbb1ba1d57)
+[![](../assets/8a1c84379986/7BQoIdYvoOxUmfWv9hiqmg.jpeg)](https://medium.com/@izbjeglicke.price/kratki-predah-u-gradu-ljubavi-8ddbb1ba1d57)
 
 
 It is a matter of urgency to **at least** prolong the working hours of the office for foreigners and to create decent conditions for the people, firstly in regards to hygiene conditions and the reception site\.

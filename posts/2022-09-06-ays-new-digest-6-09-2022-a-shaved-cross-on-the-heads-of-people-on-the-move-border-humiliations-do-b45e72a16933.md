@@ -195,7 +195,7 @@ Area near the Evros River on the Greek\-Turkish border\. Credit: _Alexandros Avr
 The militarisation of the Greek border is increasing and illegal pushbacks by the Greek authorities continue\. People on the move keep dying as a consequence of this militarisation\. Recently a five\-year\-old girl died on Evros, thus adding to the list of border murders\. Read our digest on this subject:
 
 
-[![](https://miro.medium.com/max/800/0*dMjH7dRoUe1KYIJ6.jpg)](https://medium.com/are-you-syrious/ays-news-digest-10-8-22-a-5-year-old-girl-died-on-evros-her-family-still-remains-there-helpless-869b6d619c2d)
+[![](../assets/b45e72a16933/dMjH7dRoUe1KYIJ6.jpg)](https://medium.com/are-you-syrious/ays-news-digest-10-8-22-a-5-year-old-girl-died-on-evros-her-family-still-remains-there-helpless-869b6d619c2d)
 
 
 Despite this, the Greek authorities continue to pursue a policy of securitising the borders, announcing the extension of the [fence](http://www.infomigrants.net/en/post/42843/greece-to-expand-security-and-surveillance-at-border-with-turkey) and more border guards, together to the implementation of more sophisticated technologies\. Greek Migration Minister Notis Mitarachi on Sunday \(4 September\) boasted that at the land and maritime border, Greek border guards stopped more than 154,000 people on the move who were seeking a safe life\. This means that only as of the beginning of the year, 154,000 people have not had the right to petition for asylum in Greece\.
@@ -243,7 +243,7 @@ France police removing a tank of water in Calais\. [Via Calais Food Collective](
 We wrote about this topic here:
 
 
-[![](https://miro.medium.com/max/1104/1*_1dvRnZlqx99trmLlBDv1g.jpeg)](https://medium.com/are-you-syrious/ays-news-digest-27-08-2022-worsening-conditions-for-refugees-in-ter-apel-reception-center-led-to-1675f6014bbb)
+[![](../assets/b45e72a16933/_1dvRnZlqx99trmLlBDv1g.jpeg)](https://medium.com/are-you-syrious/ays-news-digest-27-08-2022-worsening-conditions-for-refugees-in-ter-apel-reception-center-led-to-1675f6014bbb)
 
 
 The crisis of the reception system in the Netherlands remains unresolved\.

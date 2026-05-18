@@ -592,7 +592,7 @@ IOC President, Thomas Bach, said on receiving the award that:
 
 
 
-[![](https://miro.medium.com/max/1200/1*T64kaQJKXhALIUlGct1ehg.jpeg)](https://medium.com/samuel-hall-stories/on-the-move-in-pursuit-of-peace-6cad7f56a7d3)
+[![](../assets/9b06c8812614/T64kaQJKXhALIUlGct1ehg.jpeg)](https://medium.com/samuel-hall-stories/on-the-move-in-pursuit-of-peace-6cad7f56a7d3)
 
 - Niger: analysis of a “humanitarian border” — Interview with Silvia Pitzalis and Fabio De Blasis, research fellows at the University of Urbino
 

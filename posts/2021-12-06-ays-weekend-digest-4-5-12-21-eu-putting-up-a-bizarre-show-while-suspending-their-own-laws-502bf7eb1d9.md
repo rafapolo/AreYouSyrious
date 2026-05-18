@@ -94,7 +94,7 @@ As [reported](https://insidearabia.com/protesting-against-inhumane-treatment-in-
 Don’t miss out reading our recent Special from Libya:
 
 
-[![](https://miro.medium.com/max/1200/1*Rw11oYHIfPJGB-G3g-9vsw.jpeg)](https://medium.com/are-you-syrious/special-from-libya-protests-in-tripoli-against-a-system-made-to-cause-suffering-77a6ce5ffc6)
+[![](../assets/502bf7eb1d9/Rw11oYHIfPJGB-G3g-9vsw.jpeg)](https://medium.com/are-you-syrious/special-from-libya-protests-in-tripoli-against-a-system-made-to-cause-suffering-77a6ce5ffc6)
 
 
 While the protest was taking place, this was the reaction that came towards those demanding a change in the practice so far:

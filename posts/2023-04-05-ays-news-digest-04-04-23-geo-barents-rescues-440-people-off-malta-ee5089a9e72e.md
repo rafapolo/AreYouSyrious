@@ -167,13 +167,13 @@ All power to Maldusa!
 
 
 
-[![](https://freemovement.org.uk/wp-content/uploads/2023/01/Flag_of_the_United_Nations.svg_-edited.png)](https://freemovement.org.uk/how-does-the-illegal-migration-bill-breach-the-refugee-convention/?fbclid=IwAR3Y53gJt1TPHbs187UWBnLm8GFvLHsQE3iXsF1FQtrpwP8hVu7sVRLPESc)
+[![](../assets/ee5089a9e72e/Flag_of_the_United_Nations.svg_-edited.png)](https://freemovement.org.uk/how-does-the-illegal-migration-bill-breach-the-refugee-convention/?fbclid=IwAR3Y53gJt1TPHbs187UWBnLm8GFvLHsQE3iXsF1FQtrpwP8hVu7sVRLPESc)
 
 - Updates to the Asylum Procedure Regulation in the EU proposed, here reported on by State Watch:
 
 
 
-[![](https://www.statewatch.org/media/3841/eu-flags-asylum.jpg)](https://www.statewatch.org/news/2023/april/tracking-the-pact-member-state-comments-on-the-asylum-and-migration-management-regulation-and-asylum-procedure-regulation/?fbclid=IwAR3PaWamRRKSio5Ip2VrItOHRdmoh1XCF2mAEyfXzWn9Pg2MUsCrH3GXpxc)
+[![](../assets/ee5089a9e72e/eu-flags-asylum.jpg)](https://www.statewatch.org/news/2023/april/tracking-the-pact-member-state-comments-on-the-asylum-and-migration-management-regulation-and-asylum-procedure-regulation/?fbclid=IwAR3PaWamRRKSio5Ip2VrItOHRdmoh1XCF2mAEyfXzWn9Pg2MUsCrH3GXpxc)
 
 - Extension of the border wall in Greece, an election pledge now:
 

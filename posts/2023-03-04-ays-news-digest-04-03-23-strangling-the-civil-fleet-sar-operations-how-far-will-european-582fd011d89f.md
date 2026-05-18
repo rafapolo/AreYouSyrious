@@ -111,7 +111,7 @@ UNHCR’s data tells us that detention centres are not over capacity. Their impe
 See here for detail:
 
 
-[![](https://amzirlodp-prd-s3.s3.amazonaws.com/documents/images/big_391bd0dd0658987c180b0370fc136ba10671fd65.jpg)](https://data.unhcr.org/en/documents/details/89400)
+[![](../assets/582fd011d89f/big_391bd0dd0658987c180b0370fc136ba10671fd65.jpg)](https://data.unhcr.org/en/documents/details/89400)
 
 
 Were such provisions true, would that be good enough? Given that the voices of detained people tell another story entirely, it unequivocally isn’t.
@@ -195,7 +195,7 @@ Although we don’t wish to platform such fascistic behaviour, it is depressingl
 
 
 
-[![](https://hopenothate.org.uk/wp-content/uploads/2023/02/state-of-hate-2023-Anti-migrant-protests-765x1024.png)](https://hopenothate.org.uk/migrant-hunters/?fbclid=IwAR0lTy8GDp4RE-5EVqC2VCr6rWU57pXtQEKAAGgEuEVeDoJkwR6Trhf5Hr4)
+[![](../assets/582fd011d89f/state-of-hate-2023-Anti-migrant-protests-765x1024.png)](https://hopenothate.org.uk/migrant-hunters/?fbclid=IwAR0lTy8GDp4RE-5EVqC2VCr6rWU57pXtQEKAAGgEuEVeDoJkwR6Trhf5Hr4)
 
 #### WORTH READING
 - On refugee reception inequality in Europe:
@@ -204,7 +204,7 @@ Although we don’t wish to platform such fascistic behaviour, it is depressingl
 An op-ed from US-based independent news provider ‘Democracy Now!’, in the wake of the Crotone shipwreck last week. They summarise discrepancies between the reception of refugees from Ukraine and from other countries, as well as the official attempts to further restrict SAR civil fleets.
 
 
-[![](https://www.democracynow.org/images/blog_posts/47/66447/full_hd/column_default.jpg)](https://www.democracynow.org/2023/3/2/from_mare_nostrum_to_mare_mortuum?fbclid=IwAR28RTTfLlcDz_7blKSPCY-WgQIdMVQZqJ4xN2grX3kJbNOPX0AA-67H5Xc)
+[![](../assets/582fd011d89f/column_default.jpg)](https://www.democracynow.org/2023/3/2/from_mare_nostrum_to_mare_mortuum?fbclid=IwAR28RTTfLlcDz_7blKSPCY-WgQIdMVQZqJ4xN2grX3kJbNOPX0AA-67H5Xc)
 
 - Access to freedom of information DENIED by the enforcement of migration policies in Europe. _Statewatch_ report at length about how Frontex obscures the border regime :
 
@@ -228,7 +228,7 @@ BUT
 This bid for neutralisation is an existential threat to justice, and one that we **must** oppose proactively. The full report below is a **must read** :
 
 
-[![](https://www.statewatch.org/media/3757/2023-06-migration-overspill-1.jpg)](https://www.statewatch.org/analyses/2023/migration-policy-overspill-access-to-information-in-peril/?fbclid=IwAR0p5OiCjIh6H5Yc-Uv8cQsFVr099RUe0QSoVdgbXayQA1_8hGaR3Jsf5CI)
+[![](../assets/582fd011d89f/2023-06-migration-overspill-1.jpg)](https://www.statewatch.org/analyses/2023/migration-policy-overspill-access-to-information-in-peril/?fbclid=IwAR0p5OiCjIh6H5Yc-Uv8cQsFVr099RUe0QSoVdgbXayQA1_8hGaR3Jsf5CI)
 
 
 

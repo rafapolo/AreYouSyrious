@@ -137,7 +137,7 @@ An article on the end of the cooperation between MSF and SOS Mediterranee can be
 We reported about this in the digest of April 17th\.
 
 
-[![](https://miro.medium.com/max/680/1*w0SkxR96i5b2Rh6oDC9T4Q.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-17-04-20-at-least-some-of-the-people-who-have-been-rescued-while-europe-was-68f7c7c0687)
+[![](../assets/d29b6d78b1ae/w0SkxR96i5b2Rh6oDC9T4Q.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-17-04-20-at-least-some-of-the-people-who-have-been-rescued-while-europe-was-68f7c7c0687)
 
 
 The two organizations had different opinions on how to continue rescue operations during the corona pandemic\. 

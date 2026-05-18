@@ -87,7 +87,7 @@ _As the weather is set to decline dramatically in Greece, with snowfall, powerfu
 Be sure to catch up on the AYS? Special from Chios: What is life really like in a Greek Refugee Camp:
 
 
-[![](https://miro.medium.com/max/640/1*_pQAPwUQvjN2X-a8mH181Q.jpeg)](https://medium.com/are-you-syrious/ays-special-from-chios-what-is-life-really-like-in-a-greek-refugee-camp-73e2cd288e8b)
+[![](../assets/805c72f10169/_pQAPwUQvjN2X-a8mH181Q.jpeg)](https://medium.com/are-you-syrious/ays-special-from-chios-what-is-life-really-like-in-a-greek-refugee-camp-73e2cd288e8b)
 
 #### **Alarmphone’s Aegean Regional Analysis is a troubling read as conditions worsen and dangers rise for refugees travelling to Greece and living in hotspots**
 

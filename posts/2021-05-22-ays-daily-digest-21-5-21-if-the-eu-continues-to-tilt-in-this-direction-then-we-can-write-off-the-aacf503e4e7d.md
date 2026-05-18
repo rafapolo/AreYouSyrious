@@ -54,7 +54,7 @@ ECHO Refugee Library is back in the field\. This week at Korinthos Camp, a numbe
 The acquisitions are overturning the very first acquittal verdict in the Easter Monday pushback case of the Maltese officials that we have extensively been reporting about in the past year\.
 
 
-[![](https://miro.medium.com/max/960/0*nnT6Ce8lJVjH-K64.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-01-05-2020-maltas-government-has-been-involved-in-the-push-backs-on-easter-cbb267099401)
+[![](../assets/aacf503e4e7d/nnT6Ce8lJVjH-K64.jpeg)](https://medium.com/are-you-syrious/ays-daily-digest-01-05-2020-maltas-government-has-been-involved-in-the-push-backs-on-easter-cbb267099401)
 
 
 As a reminder — 12 people were left to die in the Maltese search and rescue area and 53 survivors were handed over to Libyan torturers\. Now the lawyers of these people have provided a reconstruction that the judge deemed worthy of further investigation\. The shipowner Carmelo Grech, a fishing boats owner, admitted before the Court of Malta that he had been hired and paid at least four times by the Maltese government to illegally bring people back to Libya without leaving any traces\. The deal was this: Libya would take back the migrants as long as Valletta would pay the costs for their imprisonment\. However, there is no reference to respect for human rights\. Read more in reports of the Italian [media](https://www.avvenire.it/attualita/pagine/cosi-malta-mi-pagava-per-respingere-illegalmente-i-migranti-verso-la-libia?fbclid=IwAR0YX-Vfil3p9rHt50ZxQ69KStj9nknrIjZzX8g1yqnQ25GZ7x9kVLZeazA) \.

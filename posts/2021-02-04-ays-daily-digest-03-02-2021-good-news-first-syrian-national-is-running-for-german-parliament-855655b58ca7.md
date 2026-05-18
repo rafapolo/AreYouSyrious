@@ -260,7 +260,7 @@ The Migration Policy Cenre is holding a Webinar on **‘International Mobility R
 Register and more information:
 
 
-[![](https://migrationpolicycentre.eu/wp-content/uploads/2021/04/MPC-sm-headerOG.png)](https://migrationpolicycentre.eu/events/international-mobility-restrictions-and-the-spread-of-pandemics-new-data-and-research/?fbclid=IwAR22WWwWGkKLw4WI2TAaXWa_po6HqgvlbyVLDz2xXXmXao_OLSGfQFWU2RY)
+[![](../assets/855655b58ca7/MPC-sm-headerOG.png)](https://migrationpolicycentre.eu/events/international-mobility-restrictions-and-the-spread-of-pandemics-new-data-and-research/?fbclid=IwAR22WWwWGkKLw4WI2TAaXWa_po6HqgvlbyVLDz2xXXmXao_OLSGfQFWU2RY)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

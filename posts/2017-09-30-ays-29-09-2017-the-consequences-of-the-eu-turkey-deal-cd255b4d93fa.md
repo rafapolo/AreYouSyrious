@@ -66,7 +66,7 @@ Following the intensifying fights in Northwestern Syria, many hospitals in the r
 Volunteers witnessed one boat arriving on the north of Lesvos\. Because of the bad weather conditions and high waves, the Hellenic Coast Guard had to rescue them\. Reportedly it was a group of 48 people, 15 men, 14 women and19 children\) \.
 
 
-[![](https://miro.medium.com/max/940/1*zeYkxStHQ45EJth5mGgL_A.jpeg)](https://medium.com/@LighthouseRR/caught-in-a-storm-lesvos-arrival-report-for-29-september-2017-7396a10baadb)
+[![](../assets/cd255b4d93fa/zeYkxStHQ45EJth5mGgL_A.jpeg)](https://medium.com/@LighthouseRR/caught-in-a-storm-lesvos-arrival-report-for-29-september-2017-7396a10baadb)
 
 
 

@@ -305,7 +305,7 @@ _Read our latest AYS Special, a piece by [No Borders Manchester](https://noborde
 
 
 
-[![](https://miro.medium.com/max/1200/1*68FlfWyoVvuC78aAQELxaA.jpeg)](https://medium.com/are-you-syrious/ays-special-from-the-uk-the-british-nationality-and-borders-bill-4c2e8d637451)
+[![](../assets/9f8670aaf441/68FlfWyoVvuC78aAQELxaA.jpeg)](https://medium.com/are-you-syrious/ays-special-from-the-uk-the-british-nationality-and-borders-bill-4c2e8d637451)
 
 - The EU\-Afghanistan Cooperation and a New Afghan Exodus:
 

@@ -104,7 +104,7 @@ Giorgia Meloni after her party’s victory\. Via [Giorgia Meloni twitter](https:
 Polls had been predicting this for weeks, but only the September 25 elections confirmed it\. Giorgia Meloni’s far\-right party, Fratelli d’Italia \(Brothers of Italy\), won\. Rigid migration policies, based on a racist and neocolonialist approach to the issue, are expected\. We discussed it here:
 
 
-[![](https://miro.medium.com/max/767/1*r1CUCWrmrbwYfmag79nl-w.png)](https://medium.com/are-you-syrious/ays-news-digest-26-9-22-what-will-happen-after-the-far-right-win-in-italy-77f88a33b848)
+[![](../assets/27a404b32ff7/r1CUCWrmrbwYfmag79nl-w.png)](https://medium.com/are-you-syrious/ays-news-digest-26-9-22-what-will-happen-after-the-far-right-win-in-italy-77f88a33b848)
 
 
 Indeed, Giorgia Meloni has used anti\-migrant rhetoric to bolster her popularity\. The party program listed only a few of the securitization measures promoted by Meloni\. These include the much\-proclaimed [“naval blockade,”](https://twitter.com/GiorgiaMeloni/status/1557017852766572544?s=20) a series of actions aimed at further strengthening cooperative \(and accountable\) relations with North African authorities in an effort to prevent any departures to Italy\. This would formalize the complicity of Italian authorities with respect to the Libyan authorities’ actions to stop those who leave, despite repeated demonstrations against arbitrary detention and torture of returnees in Libya\.

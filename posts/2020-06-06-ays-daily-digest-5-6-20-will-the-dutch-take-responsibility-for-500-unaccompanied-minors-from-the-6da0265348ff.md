@@ -161,7 +161,7 @@ Are You Syrious has been following the media coverage and reports from those on 
 Read our [AYS Special from France under Lockdown: Refugees systematically failed by authorities](ays-special-from-france-under-lockdown-refugees-systematically-failed-by-authorities-78835a8de472) :
 
 
-[![](https://miro.medium.com/max/1200/1*R8dH062tlEcI7CU5uR5xmg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-france-under-lockdown-refugees-systematically-failed-by-authorities-78835a8de472)
+[![](../assets/6da0265348ff/R8dH062tlEcI7CU5uR5xmg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-france-under-lockdown-refugees-systematically-failed-by-authorities-78835a8de472)
 
 #### GERMANY
 ### ECRE: Covid\-19 impacts Family Reunification Procedures
