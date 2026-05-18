@@ -21,8 +21,9 @@ USAGE = <<~USAGE
     images   Download remote images referenced in posts
     thumbs   Download YouTube thumbnails for standalone video links
     recover  Recover broken images via Wayback Machine CDX API
-    index    Generate README.md from posts
-    all      Run: images → thumbs → recover → index
+    index    Write INDEX.md (chronological post list)
+    readme   Write README.md (stats + asset counts + link to INDEX.md)
+    all      Run: images → thumbs → recover → index → readme
 
   Options:
     --fetch  (all only) Prepend fetch step before images
@@ -204,10 +205,9 @@ def cmd_fetch
   puts "Failed     : #{failed.count}"
   failed.each { |u| puts "  #{u}" }
 
-  puts "\n==> Rebuilding README.md..."
-  readme = cmd_index(print_output: false)
-  File.write(File.join(REPO_ROOT, "README.md"), readme)
-  puts "Done — #{Dir.glob(File.join(POSTS_DIR, '*.md')).count} posts total."
+  puts "\n==> Rebuilding INDEX.md + README.md..."
+  cmd_index
+  cmd_readme
 end
 
 # ── subcommand: images ─────────────────────────────────────────────────────────
@@ -545,36 +545,65 @@ def cmd_recover
   puts "\nLog saved to meta/recovery_log.csv"
 end
 
-# ── subcommand: index ──────────────────────────────────────────────────────────
+# ── shared: scan posts ─────────────────────────────────────────────────────────
 
-def cmd_index(print_output: true)
+def scan_posts
   hash  = Hash.new { |h, k| h[k] = [] }
   dates = []
 
   Dir.glob(File.join(REPO_ROOT, "posts", "*.md")).each do |p|
     begin
-      grep = `grep "date: " #{Shellwords.escape(p)}`
-      datestr = grep.split("\n").first
-      datestr = datestr.split("###").first
-      datestr.gsub!("date: ", "")
-      date = DateTime.parse(datestr).strftime('%Y-%m-%d')
-      dates << date
+      grep    = `grep "date: " #{Shellwords.escape(p)}`
+      datestr = grep.split("\n").first.split("###").first.gsub("date: ", "")
+      date    = DateTime.parse(datestr).strftime('%Y-%m-%d')
+      dates  << date
 
       descgrep = `grep "description" #{Shellwords.escape(p)}`
-      descstr = descgrep.split("\n").first.gsub("description: ", "")
+      descstr  = descgrep.split("\n").first.gsub("description: ", "")
 
       hash[date] << [descstr, "posts/#{File.basename(p)}"]
     rescue
     end
   end
 
-  dates.sort!
-  by_year = dates.group_by { |d| d[0, 4] }
-  assets_mb = (Dir.glob(File.join(REPO_ROOT, "assets", "**", "*"))
-                 .reject { |f| File.directory?(f) }
-                 .sum { |f| File.size(f) rescue 0 } / 1_048_576.0).round(0)
+  [hash, dates.sort]
+end
 
+# ── subcommand: index ──────────────────────────────────────────────────────────
+
+def cmd_index
+  hash, dates = scan_posts
+
+  lines = []
+  lines << "# AreYouSyrious — post index"
+  lines << ""
+  lines << "#{dates.size} posts · #{dates.first} → #{dates.last} · [back to README](README.md)"
+  lines << ""
+  lines << "---"
+  lines << ""
+
+  hash.sort_by { |key, _| key }.each do |date, posts|
+    posts.each do |desc, path|
+      lines << "- #{date} - [#{desc}](#{path})"
+    end
+  end
+
+  output = lines.join("\n") + "\n"
+  File.write(File.join(REPO_ROOT, "INDEX.md"), output)
+  puts "INDEX.md written — #{dates.size} posts."
+end
+
+# ── subcommand: readme ─────────────────────────────────────────────────────────
+
+def cmd_readme
+  _, dates = scan_posts
+
+  by_year    = dates.group_by { |d| d[0, 4] }
   year_table = by_year.sort.map { |y, ds| "| #{y} | #{ds.size} |" }.join("\n")
+
+  asset_files = Dir.glob(File.join(REPO_ROOT, "assets", "**", "*")).reject { |f| File.directory?(f) }
+  assets_mb   = (asset_files.sum { |f| File.size(f) rescue 0 } / 1_048_576.0).round(0)
+  asset_dirs  = Dir.glob(File.join(REPO_ROOT, "assets", "*")).count { |f| File.directory?(f) }
 
   lines = []
   lines << "# AreYouSyrious @ Medium"
@@ -587,7 +616,8 @@ def cmd_index(print_output: true)
   lines << "|---|---|"
   lines << "| **Posts** | #{dates.size} |"
   lines << "| **Date range** | #{dates.first} → #{dates.last} |"
-  lines << "| **Assets** | ~#{assets_mb} MB |"
+  lines << "| **Image files** | #{asset_files.size} across #{asset_dirs} posts |"
+  lines << "| **Assets size** | ~#{assets_mb} MB |"
   lines << ""
   lines << "**Posts per year**"
   lines << ""
@@ -597,20 +627,12 @@ def cmd_index(print_output: true)
   lines << ""
   lines << "---"
   lines << ""
+  lines << "Full chronological post list: [INDEX.md](INDEX.md)"
+  lines << ""
 
-  hash.sort_by { |key, _| key }.each do |date, posts|
-    posts.each do |desc, path|
-      lines << "- #{date} - [#{desc}](#{path})"
-    end
-  end
-
-  output = lines.join("\n") + "\n"
-
-  if print_output
-    puts output
-  else
-    output
-  end
+  output = lines.join("\n")
+  File.write(File.join(REPO_ROOT, "README.md"), output)
+  puts "README.md written — #{dates.size} posts, #{asset_files.size} images, ~#{assets_mb} MB."
 end
 
 # ── subcommand: all ────────────────────────────────────────────────────────────
@@ -635,9 +657,9 @@ def cmd_all(with_fetch:)
   puts ""
 
   puts "==> Step: index"
-  readme = cmd_index(print_output: false)
-  File.write(File.join(REPO_ROOT, "README.md"), readme)
-  puts "README.md written — #{Dir.glob(File.join(POSTS_DIR, '*.md')).count} posts total."
+  cmd_index
+  puts "==> Step: readme"
+  cmd_readme
 end
 
 # ── dispatch ───────────────────────────────────────────────────────────────────
@@ -653,6 +675,7 @@ when "images"  then cmd_images
 when "thumbs"  then cmd_thumbs
 when "recover" then cmd_recover
 when "index"   then cmd_index
+when "readme"  then cmd_readme
 when "all"     then cmd_all(with_fetch: with_fetch)
 else
   $stderr.puts "Unknown command: #{command}"
