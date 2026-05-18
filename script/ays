@@ -686,9 +686,8 @@ def cmd_site
                      .sort_by { |d, _| d }
                      .flat_map do |date, posts|
       posts.map do |desc, path|
-        basename = File.basename(path, ".md").sub(/\A\d{4}-\d{2}-\d{2}-/, "")
-        medium_url = "https://medium.com/are-you-syrious/#{basename}"
-        %(<li><time>#{date}</time><a href="#{medium_url}" target="_blank" rel="noopener">#{desc}</a></li>)
+        archive_url = "https://github.com/rafapolo/AreYouSyrious/blob/posts/#{path}"
+        %(<li><time>#{date}</time><a href="#{archive_url}" target="_blank" rel="noopener">#{desc}</a></li>)
       end
     end.join("\n      ")
 
