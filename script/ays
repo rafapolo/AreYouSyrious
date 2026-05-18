@@ -8,7 +8,6 @@ require "json"
 require "thread"
 require "date"
 require "shellwords"
-require "yaml"
 
 REPO_ROOT  = File.expand_path("..", __dir__)
 POSTS_DIR  = File.join(REPO_ROOT, "posts")
@@ -27,7 +26,6 @@ USAGE = <<~USAGE
     countries  Show all countries mentioned across posts with article counts
     photos     Write photos.html (all asset images, 300px tall, centered)
     site       Write index.html (GitHub Pages archive site)
-    timeline   Write chronological_list_of_events.md (monthly journal)
     all        Run: images → thumbs → recover → index → readme → site
 
   Options:
@@ -910,138 +908,6 @@ def cmd_all(with_fetch:)
   cmd_site
 end
 
-# ── subcommand: timeline ──────────────────────────────────────────────────────
-
-def parse_post_frontmatter(content)
-  return {} unless content.start_with?("---")
-  fm_end = content.index("\n---\n", 4)
-  return {} unless fm_end
-  fm_lines = content[4..fm_end - 1].lines
-  result   = {}
-  i = 0
-  while i < fm_lines.size
-    line = fm_lines[i]
-    if (m = line.match(/\A(title|date|description):\s*(.*)/))
-      key = m[1]
-      val = m[2].strip.gsub(/\A["']|["']\z/, "")
-      if val == ">" || val == "|"
-        # block scalar: collect indented lines
-        i += 1
-        block = []
-        while i < fm_lines.size && fm_lines[i].match(/\A\s+/)
-          block << fm_lines[i].strip
-          i += 1
-        end
-        result[key] = block.join(" ")
-        next
-      end
-      result[key] = val
-    end
-    i += 1
-  end
-  result
-end
-
-def cmd_timeline
-  output_path = File.join(REPO_ROOT, "chronological_list_of_events.md")
-
-  existing    = File.exist?(output_path) ? File.read(output_path, encoding: "utf-8") : ""
-  done_months = existing.scan(/^## (\d{4}-\d{2})/).flatten.to_set
-
-  puts "==> Reading posts…"
-  posts = []
-  Dir.glob(File.join(POSTS_DIR, "*.md")).sort.each do |path|
-    content = File.read(path, encoding: "utf-8", invalid: :replace, undef: :replace)
-    fm      = parse_post_frontmatter(content)
-    next unless fm["date"]
-
-    date_str = fm["date"].to_s[0, 10]
-    next unless date_str =~ /\A\d{4}-\d{2}-\d{2}\z/
-
-    month = date_str[0, 7]
-
-    body     = content.sub(/\A---.*?^---\n/m, "")
-    sections = body.scan(/^[#]{2,4}\s+(.+)/).flatten
-                   .map  { |h| h.gsub(/\\/, "").strip }
-                   .select { |h| h.length < 50 }
-                   .uniq
-
-    posts << {
-      date:        date_str,
-      month:       month,
-      description: fm["description"].to_s.strip,
-      sections:    sections
-    }
-  end
-
-  by_month = posts.group_by { |p| p[:month] }.sort.to_h
-  puts "Found #{posts.size} posts across #{by_month.size} months."
-
-  out = File.open(output_path, "a")
-  if existing.strip.empty?
-    out.puts "# Chronological Events — AreYouSyrious (2016–2025)"
-    out.puts ""
-  end
-
-  by_month.each do |month, month_posts|
-    if done_months.include?(month)
-      print "."
-      next
-    end
-
-    year, mon  = month.split("-").map(&:to_i)
-    month_name = Date::MONTHNAMES[mon]
-    n          = month_posts.size
-
-    # top 4 section labels by frequency
-    all_sections = month_posts.flat_map { |p| p[:sections] }
-    top_labels   = all_sections
-                     .group_by(&:itself)
-                     .sort_by { |_, v| -v.size }
-                     .first(4)
-                     .map(&:first)
-    countries_str = top_labels.empty? ? "multiple countries" : top_labels.join(", ")
-
-    intro = "#{month_name} #{year} — #{n} digest#{"s" if n != 1} published. " \
-            "Coverage focused on #{countries_str}."
-
-    # bullets from //‑split descriptions, prefer longer fragments
-    bullets = []
-    month_posts.each do |p|
-      frags = if p[:description].include?("//")
-                p[:description].split("//").map(&:strip)
-              else
-                [p[:description].strip]
-              end
-      frags.reject! { |f| f.length < 25 }
-      frags.each { |f| bullets << { date: p[:date], text: f } }
-    end
-
-    bullets.sort_by! { |b| -b[:text].length }
-    picked     = []
-    seen_dates = Hash.new(0)
-    bullets.each do |b|
-      break if picked.size >= 8
-      next if seen_dates[b[:date]] >= 2
-      picked << b
-      seen_dates[b[:date]] += 1
-    end
-    picked.sort_by! { |b| b[:date] }
-
-    out.puts "## #{month}"
-    out.puts intro
-    out.puts ""
-    picked.each { |b| out.puts "- #{b[:date]} — #{b[:text]}" }
-    out.puts ""
-    out.flush
-
-    puts "  #{month} (#{n} posts)"
-  end
-
-  out.close
-  puts "\nDone → #{output_path}"
-end
-
 # ── dispatch ───────────────────────────────────────────────────────────────────
 
 usage! if ARGV.empty?
@@ -1059,8 +925,7 @@ when "readme"    then cmd_readme
 when "countries" then cmd_countries
 when "photos"    then cmd_photos
 when "site"      then cmd_site
-when "all"      then cmd_all(with_fetch: with_fetch)
-when "timeline" then cmd_timeline
+when "all"  then cmd_all(with_fetch: with_fetch)
 else
   $stderr.puts "Unknown command: #{command}"
   usage!
