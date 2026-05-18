@@ -1,131 +1,103 @@
 #!/usr/bin/env ruby
-# Downloads only missing posts from AreYouSyrious on Medium.
+# Downloads missing posts from AreYouSyrious on Medium one by one.
 #
-# Strategy:
-#   1. Use --list to get every post URL from Medium (no download)
-#   2. Extract post IDs from local filenames to know what we already have
-#   3. Download only the missing ones with -p <url>
-#   4. Move new files into posts/ and assets/
+# Reads missing_posts.csv (date,title,url) and downloads each with -p <url>.
+# Already-downloaded posts are skipped automatically.
+# Run repeatedly until all are fetched — safe to interrupt and resume.
 #
-# Medium authentication (needed when rate-limited or behind Cloudflare):
-#   export MEDIUM_COOKIE_SID=<value>
-#   export MEDIUM_COOKIE_UID=<value>
-#   export MEDIUM_COOKIE_CF_CLEARANCE=<value>   # optional
-#   export MEDIUM_COOKIE_CFUVID=<value>          # optional
-#   export MEDIUM_HOST=<cloudflare-worker-url>   # optional, strongly recommended
+# Medium authentication:
+#   export MEDIUM_COOKIE_SID=<value>   (or set in .env)
 #
 # Usage: ruby fetch.rb
 
-require "json"
+require "csv"
 require "fileutils"
 require "shellwords"
 
-PUBLICATION = "AreYouSyrious".freeze
-POSTS_DIR   = File.join(__dir__, "posts")
-ASSETS_DIR  = File.join(__dir__, "assets")
-OUTPUT_DIR  = File.join(__dir__, "Output", "users", PUBLICATION, "zmediumtomarkdown")
+POSTS_DIR  = File.join(__dir__, "posts")
+ASSETS_DIR = File.join(__dir__, "assets")
+OUTPUT_DIR = File.join(__dir__, "Output", "users", "AreYouSyrious", "zmediumtomarkdown")
+CSV_PATH   = File.join(__dir__, "missing_posts.csv")
 
-puts "==> Fetching missing posts for #{PUBLICATION}"
+puts "==> AreYouSyrious — fetch missing posts"
 puts ""
-
 %w[MEDIUM_COOKIE_SID MEDIUM_COOKIE_UID MEDIUM_COOKIE_CF_CLEARANCE MEDIUM_COOKIE_CFUVID MEDIUM_HOST].each do |var|
   puts "    #{var}: #{ENV[var] ? "set" : "not set"}"
 end
 puts ""
 
-# Step 1: Get list of all post URLs from Medium (no download)
-puts "==> Fetching post list from Medium..."
-list_output = `ZMediumToMarkdown --list -u #{Shellwords.escape(PUBLICATION)} 2>/dev/null`
-if list_output.empty?
-  abort "Failed to fetch post list. Check auth env vars or run: ZMediumToMarkdown --auth"
-end
+# Load missing posts from CSV
+rows = CSV.read(CSV_PATH, headers: true)
+puts "    #{rows.count} posts in missing_posts.csv"
 
-medium_posts = list_output.lines.filter_map do |line|
-  JSON.parse(line.strip) rescue nil
-end
-puts "    #{medium_posts.count} posts found on Medium"
-
-# Step 2: Extract post IDs from local filenames  (last hex segment, e.g. "a1b2c3d4e5f6")
-local_ids = Dir.glob(File.join(POSTS_DIR, "*.md")).map do |f|
+# Skip already downloaded (match by post ID in filename)
+local_ids = Dir.glob(File.join(POSTS_DIR, "*.md")).filter_map do |f|
   File.basename(f, ".md")[/[a-f0-9]{8,}$/]
-end.compact.to_set
-puts "    #{local_ids.count} posts already in repo"
+end.to_set
 
-# Step 3: Find missing posts
-missing = medium_posts.reject do |post|
-  url = post["url"] || ""
+todo = rows.reject do |row|
+  url = row["url"] || ""
   id  = url[/[a-f0-9]{8,}$/]
   id && local_ids.include?(id)
 end
-puts "    #{missing.count} posts missing\n\n"
 
-# Step 3b: Save all Medium URLs to CSV (always, whether or not we download)
-csv_path = File.join(__dir__, "all_posts_urls.csv")
-File.open(csv_path, "w") do |f|
-  f.puts "date,title,url"
-  medium_posts.each do |post|
-    date  = (post["firstPublishedAt"] || "")
-    date  = date.is_a?(Integer) ? Time.at(date / 1000).strftime("%Y-%m-%d") : date.to_s[0, 10]
-    title = (post["title"] || "").gsub('"', '""')
-    url   = post["url"] || ""
-    f.puts "#{date},\"#{title}\",#{url}"
-  end
-end
-puts "    Saved all_posts_urls.csv (#{medium_posts.count} rows)\n\n"
+puts "    #{local_ids.count} already in repo"
+puts "    #{todo.count} still to download\n\n"
 
-if missing.empty?
-  puts "Nothing to download — repo is up to date."
+if todo.empty?
+  puts "All caught up!"
   exit 0
 end
 
-# Step 4: Download each missing post
 FileUtils.mkdir_p(OUTPUT_DIR)
 downloaded = 0
+failed     = []
 
-missing.each_with_index do |post, i|
-  url = post["url"]
-  puts "[#{i + 1}/#{missing.count}] #{url}"
+todo.each_with_index do |row, i|
+  url   = row["url"]
+  title = row["title"]
+  puts "[#{i + 1}/#{todo.count}] #{row['date']} — #{title[0, 60]}"
+  puts "    #{url}"
+
   success = system("ZMediumToMarkdown", "-p", url)
-  downloaded += 1 if success
-end
 
-# Step 5: Move new .md files from Output/ → posts/
-new_posts = []
-Dir.glob(File.join(OUTPUT_DIR, "*.md")).each do |src|
-  dest = File.join(POSTS_DIR, File.basename(src))
-  next if File.exist?(dest)
-  FileUtils.mv(src, dest)
-  new_posts << dest
-end
+  if success
+    # Move new .md files from anywhere under Output/ → posts/
+    Dir.glob(File.join(__dir__, "Output", "**", "*.md")).each do |src|
+      dest = File.join(POSTS_DIR, File.basename(src))
+      next if File.exist?(dest)
+      content = File.read(src)
+        .gsub("path: assets/", "path: ../assets/")
+        .gsub("](assets/", "](../assets/")
+      File.write(dest, content)
+      FileUtils.rm(src)
+    end
 
-# Step 6: Move image folders from Output/assets/ → root assets/
-output_assets = File.join(OUTPUT_DIR, "assets")
-if Dir.exist?(output_assets)
-  FileUtils.mkdir_p(ASSETS_DIR)
-  Dir.glob(File.join(output_assets, "*")).each do |folder|
-    dest = File.join(ASSETS_DIR, File.basename(folder))
-    FileUtils.mv(folder, dest) unless Dir.exist?(dest)
+    # Move image folders from anywhere under Output/ → root assets/
+    Dir.glob(File.join(__dir__, "Output", "**", "assets", "*")).each do |folder|
+      next unless File.directory?(folder)
+      dest = File.join(ASSETS_DIR, File.basename(folder))
+      FileUtils.mkdir_p(ASSETS_DIR)
+      FileUtils.mv(folder, dest) unless Dir.exist?(dest)
+    end
+
+    downloaded += 1
+    puts "    ✓ done\n\n"
+  else
+    failed << url
+    puts "    ✗ failed (will need retry)\n\n"
   end
 end
 
-# Step 7: Fix image paths in new .md files: assets/ → ../assets/
-new_posts.each do |post|
-  content = File.read(post)
-  fixed = content
-    .gsub("path: assets/", "path: ../assets/")
-    .gsub("](assets/", "](../assets/")
-  File.write(post, fixed) if fixed != content
-end
-
-# Step 8: Clean up Output/
 FileUtils.rm_rf(File.join(__dir__, "Output"))
 
-puts "\n    +#{new_posts.count} new posts added"
+puts "=" * 60
+puts "Downloaded : #{downloaded}"
+puts "Failed     : #{failed.count}"
+failed.each { |u| puts "  #{u}" }
 
-# Step 9: Rebuild README.md index
+# Rebuild README
 puts "\n==> Rebuilding README.md..."
 readme = `ruby #{Shellwords.escape(File.join(__dir__, "index.rb"))}`
 File.write(File.join(__dir__, "README.md"), readme)
-
-total = Dir.glob(File.join(POSTS_DIR, "*.md")).count
-puts "    Done — #{total} posts total."
+puts "Done — #{Dir.glob(File.join(POSTS_DIR, '*.md')).count} posts total."
